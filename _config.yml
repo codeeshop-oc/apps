@@ -1,6 +1,23 @@
 #page title
 page_title                                : __APP_NAME__                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
+# site settings
+title: Apps Showcase
+subtitle: by Code-E-Shop
+email: sales@codeeshop.com
+description: A responsive site template designed by Code-E-Shop
+author:
+street_address: Near IT Park
+city: Delhi
+state: Delhi
+zip_code: 110092
+country: India
+phone: XXXXXXXXXX
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
 # App Info
 ios_app_id                                : __IOS_APP_ID__                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : __IOS_APP_COUNTRY__                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
