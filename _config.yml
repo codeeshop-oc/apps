@@ -34,7 +34,7 @@ mastodon_link                             :
 
 
 # Feature List                            Edit, add or remove features to be presented.
-features  
+features                                  :
     
   - title                                 : GitHub Pages Jekyll Theme
     description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
