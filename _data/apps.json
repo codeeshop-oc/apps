@@ -2,11 +2,15 @@
 	{
 		"name": "Words Scramble",
 		"id": "app-words-scramble",
+		"folder": "words-scramble",
+		"link": "",
 		"youtube_url": ""
 	},
 	{
 		"name": "Lumpsum Calculator",
 		"id": "com.lumpsumcalculator.app",
+		"folder": "lumpsumcalculator",
+		"link": "",
 		"youtube_url": "armPNK7DPcA"
 	}
 ]
