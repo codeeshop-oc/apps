@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: post
 title: Privacy Policy
-include_in_header: false
+description: Lorem ipsum dolor est
+image: 
+nav-menu: true
 ---
 
 **Last updated**  
