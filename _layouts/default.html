@@ -36,7 +36,7 @@
                                     </clipPath>
                                 </defs>
                             </svg>
-                            <img class="appIconLarge" src="{{ site.app_icon | relative_url }}">
+                            <img class="appIconLarge" src="{{ "assets/images/" | relative_url }}{{ app_main.folder }}/appicon.png">
                         </div>
                         <div class="appNamePriceContainer">
                             <h1 class="appName">
@@ -52,10 +52,12 @@
                             </p>
                         </div>
                         <div class="downloadButtonsContainer">
-                            {% if site.playstore_link %}
-                                <a class="playStoreLink" href="https://play.google.com/store/apps/details?id={{site.playstore_link}}"><img class="playStore" src="assets/playstore.png"></a>
+                            {% if app_main.play_store_id %}
+                                <a class="playStoreLink" href="https://play.google.com/store/apps/details?id={{app_main.play_store_id}}"><img class="playStore" src="{{ "assets/playstore.png" | relative_url }}"></a>
                             {% endif %}
-                            <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStore" src="assets/appstore.png"></a>
+                            {% if app_main.app_store_id %}
+                                <a class="appStoreLink" href="{{ site.appstore_link | relative_url }}"><img class="appStore" src="{{ "assets/appstore.png" | relative_url }}"></a>
+                            {% endif %}
                         </div>
                     </div>
                     {% include features.html %}
