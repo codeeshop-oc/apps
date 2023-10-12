@@ -6,13 +6,15 @@
 
 <section id="one" class="tiles">
   
-  {% for app in site.data.apps %}
+  {% for app_hash in site.data.apps %}
+  {% assign app = app_hash[1] %}
+
     <article>
       <span class="image">
-        <img src="assets/images/{{ app.folder }}/appicon.png" }}" alt="{{ app.name }}" />
+        <img src="{{ "assets/images/" | absolute_url }}{{ app.folder }}{{ "/appicon.png" }}" alt="{{ app.name }}" />
       </span>
       <header class="major">
-        <h3><a href="{{ app.folder }}{{ app.link }}/home/" class="link">{{ app.name }}</a></h3>
+        <h3><a href="{{ "" | absolute_url }}{{ app.folder }}{{ app.link }}/home/" class="link">{{ app.name }}</a></h3>
         <p>{{ tile.description }}</p>
       </header>
     </article>

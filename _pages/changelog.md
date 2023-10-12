@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: What's New
-include_in_header: true
+include_in_header: false
 ---
 
 # Changelog

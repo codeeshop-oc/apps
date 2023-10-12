@@ -5,13 +5,15 @@
 		"play_store_id": "com.words_scramble.app",
 		"folder": "words-scramble",
 		"link": "",
-		"youtube_url": ""
+		"slug_id": "/words-scramble/home",
+		"youtube_url": "6u7uqdt3qvg"
 	},
 	{
 		"name": "Lumpsum Calculator",
 		"id": "com.lumpsumcalculator.app",
 		"folder": "lumpsumcalculator",
 		"link": "",
+		"home": "/lumpsumcalculator/home",
 		"youtube_url": "armPNK7DPcA"
 	}
 ]

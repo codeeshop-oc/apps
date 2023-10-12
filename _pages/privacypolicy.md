@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Privacy Policy
 include_in_header: false
 ---
