@@ -1,0 +1,277 @@
+{
+  "words": [
+    {
+      "name": "AR"
+    },
+    {
+      "name": "VR"
+    },
+    {
+      "name": "MR"
+    },
+    {
+      "name": "HMD"
+    },
+    {
+      "name": "EYE TRACKING"
+    },
+    {
+      "name": "HAND TRACKING"
+    },
+    {
+      "name": "GESTURE RECOGNITION"
+    },
+    {
+      "name": "HAPTIC FEEDBACK"
+    },
+    {
+      "name": "FOVATED RENDERING"
+    },
+    {
+      "name": "EYE STRAIN"
+    },
+    {
+      "name": "MOTION SICKNESS"
+    },
+    {
+      "name": "CYBERSICKNESS"
+    },
+    {
+      "name": "SIMULATOR SICKNESS"
+    },
+    {
+      "name": "PRESENCE"
+    },
+    {
+      "name": "IMMERSION"
+    },
+    {
+      "name": "TELEPRESENCE"
+    },
+    {
+      "name": "COLLABORATION"
+    },
+    {
+      "name": "TRAINING"
+    },
+    {
+      "name": "EDUCATION"
+    },
+    {
+      "name": "ENTERTAINMENT"
+    },
+    {
+      "name": "GAMING"
+    },
+    {
+      "name": "DESIGN"
+    },
+    {
+      "name": "ARCHITECTURE"
+    },
+    {
+      "name": "MANUFACTURING"
+    },
+    {
+      "name": "HEALTHCARE"
+    },
+    {
+      "name": "MILITARY"
+    },
+    {
+      "name": "RETAIL"
+    },
+    {
+      "name": "TOURISM"
+    },
+    {
+      "name": "MARKETING"
+    },
+    {
+      "name": "ADVERTISING"
+    },
+    {
+      "name": "SOCIAL MEDIA"
+    },
+    {
+      "name": "REMOTE WORK"
+    },
+    {
+      "name": "REMOTE LEARNING"
+    },
+    {
+      "name": "REMOTE HEALTHCARE"
+    },
+    {
+      "name": "REMOTE TOURISM"
+    },
+    {
+      "name": "REMOTE MARKETING"
+    },
+    {
+      "name": "REMOTE ADVERTISING"
+    },
+    {
+      "name": "REMOTE SOCIAL MEDIA"
+    },
+    {
+      "name": "AI"
+    },
+    {
+      "name": "AUGMENTED REALITY"
+    },
+    {
+      "name": "GESTURES"
+    },
+    {
+      "name": "HEAD-MOUNTED DISPLAY"
+    },
+    {
+      "name": "ILLUSTRATED EDUCATIONAL CONTENT"
+    },
+    {
+      "name": "RENDERING"
+    },
+    {
+      "name": "SIMULATION"
+    },
+    {
+      "name": "SOFTWARE"
+    },
+    {
+      "name": "VIRTUAL REALITY"
+    },
+    {
+      "name": "360 VIDEO"
+    },
+    {
+      "name": "3D MODELING"
+    },
+    {
+      "name": "4D TECHNOLOGY"
+    },
+    {
+      "name": "5G"
+    },
+    {
+      "name": "6DOF TRACKING"
+    },
+    {
+      "name": "ACCESSORIES"
+    },
+    {
+      "name": "AUDIO"
+    },
+    {
+      "name": "AUTOMOTIVE"
+    },
+    {
+      "name": "BUSINESS"
+    },
+    {
+      "name": "CAD"
+    },
+    {
+      "name": "CLOUD COMPUTING"
+    },
+    {
+      "name": "ENVIRONMENTAL SCANNING"
+    },
+    {
+      "name": "HUMAN-COMPUTER INTERACTION"
+    },
+    {
+      "name": "INDUSTRY 4.0"
+    },
+    {
+      "name": "MEDICAL"
+    },
+    {
+      "name": "MOTION CAPTURE"
+    },
+    {
+      "name": "MUSIC"
+    },
+    {
+      "name": "NETWORKING"
+    },
+    {
+      "name": "NEUROSCIENCE"
+    },
+    {
+      "name": "OBJECT RECOGNITION"
+    },
+    {
+      "name": "PHYSICS"
+    },
+    {
+      "name": "PLATFORMS"
+    },
+    {
+      "name": "PRODUCTION"
+    },
+    {
+      "name": "REAL ESTATE"
+    },
+    {
+      "name": "RESEARCH"
+    },
+    {
+      "name": "ROBOTICS"
+    },
+    {
+      "name": "SOFTWARE DEVELOPMENT"
+    },
+    {
+      "name": "SPORTS"
+    },
+    {
+      "name": "TRANSPORTATION"
+    },
+    {
+      "name": "TRAVEL"
+    },
+    {
+      "name": "VR GAMES"
+    },
+    {
+      "name": "VR HEADSETS"
+    },
+    {
+      "name": "VR KEYBOARDS"
+    },
+    {
+      "name": "VR MOUSE"
+    },
+    {
+      "name": "VR CONTROLLERS"
+    },
+    {
+      "name": "VR GLASSES"
+    },
+    {
+      "name": "VR PLATFORMS"
+    },
+    {
+      "name": "VR WORKSTATIONS"
+    },
+    {
+      "name": "FOVEATED RENDERING"
+    },
+    {
+      "name": "GRAPHICS"
+    },
+    {
+      "name": "SIMULATION SICKNESS"
+    },
+    {
+      "name": "STEREOSCOPY"
+    },
+    {
+      "name": "TECHNOLOGY"
+    },
+    {
+      "name": "VIRTUAL WORLD"
+    }
+  ]
+}

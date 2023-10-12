@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Animals",
+    "relatedTo": ["Aquatic", "Birds", "Insects", "Mammals", "Reptiles"]
+  },
+  {
+    "name": "Board Games",
+    "relatedTo": ["Chess", "Ludo", "Monopoly", "Scrabble"]
+  },
+  {
+    "name": "Colors",
+    "relatedTo": [
+      "Cool Colors",
+      "Pastel Colors",
+      "Primary Colors",
+      "Secondary Colors",
+      "Warm Colors"
+    ]
+  },
+  {
+    "name": "Countries",
+    "relatedTo": ["Continents", "Currencies", "Flags", "Languages"]
+  },
+  {
+    "name": "Emotions",
+    "relatedTo": ["Anger", "Fear", "Happiness", "Sadness", "Surprise"]
+  },
+  {
+    "name": "Food",
+    "relatedTo": ["Dairy Products", "Desserts", "Fruits", "Meats", "Vegetables"]
+  },
+  {
+    "name": "Fruits",
+    "relatedTo": [
+      "Berries",
+      "Citrus Fruits",
+      "Dried Fruits",
+      "Exotic Fruits",
+      "Tropical Fruits"
+    ]
+  },
+  {
+    "name": "Hobbies",
+    "relatedTo": ["Cooking", "Gardening", "Knitting", "Painting", "Photography"]
+  },
+  {
+    "name": "Movies",
+    "relatedTo": [
+      "Action Movies",
+      "Animated Movies",
+      "Comedy Movies",
+      "Drama Movies",
+      "Sci-fi Movies"
+    ]
+  },
+  {
+    "name": "Music Genres",
+    "relatedTo": ["Classical", "Jazz", "Pop", "Rock"]
+  },
+  {
+    "name": "Music Instruments",
+    "relatedTo": [
+      "Banjo",
+      "Bass",
+      "Cello",
+      "Flute",
+      "Guitar",
+      "Harp",
+      "Mandolin",
+      "Sitar",
+      "Ukulele",
+      "Violin"
+    ]
+  },
+  {
+    "name": "Professions",
+    "relatedTo": ["Artist", "Chef", "Doctor", "Engineer", "Teacher"]
+  },
+  {
+    "name": "Sports",
+    "relatedTo": [
+      "Athletes",
+      "Equipment",
+      "Individual Sports",
+      "Olympic Events",
+      "Team Sports"
+    ]
+  },
+  {
+    "name": "Technology",
+    "relatedTo": [
+      "Artificial Intelligence",
+      "Computers",
+      "Cybersecurity",
+      "Smartphones",
+      "Virtual Reality"
+    ]
+  },
+  {
+    "name": "Vehicles",
+    "relatedTo": ["Bicycles", "Boats", "Cars", "Motorcycles", "Trucks"]
+  }
+]

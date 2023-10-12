@@ -1,0 +1,196 @@
+{
+  "words": [
+    {
+      "name": "APERTURE"
+    },
+    {
+      "name": "BOKEH"
+    },
+    {
+      "name": "CAMERA"
+    },
+    {
+      "name": "COLOR"
+    },
+    {
+      "name": "EXPOSURE"
+    },
+    {
+      "name": "FLASH"
+    },
+    {
+      "name": "FOCUS"
+    },
+    {
+      "name": "LENS"
+    },
+    {
+      "name": "LIGHT"
+    },
+    {
+      "name": "LONG_EXPOSURE"
+    },
+    {
+      "name": "MACRO"
+    },
+    {
+      "name": "NIGHT_PHOTOGRAPHY"
+    },
+    {
+      "name": "OBJECTIVE"
+    },
+    {
+      "name": "PORTRAITS"
+    },
+    {
+      "name": "SHUTTER_SPEED"
+    },
+    {
+      "name": "SILHOUETTE"
+    },
+    {
+      "name": "SLOW_MOTION"
+    },
+    {
+      "name": "TELEPHOTO"
+    },
+    {
+      "name": "TIMELAPSE"
+    },
+    {
+      "name": "ULTRAWIDE"
+    },
+    {
+      "name": "WHITE_BALANCE"
+    },
+    {
+      "name": "WILDLIFE"
+    },
+    {
+      "name": "ZOOM"
+    },
+    {
+      "name": "DEPTH_OF_FIELD"
+    },
+    {
+      "name": "HDR"
+    },
+    {
+      "name": "HIGH_ISO"
+    },
+    {
+      "name": "LOW_ISO"
+    },
+    {
+      "name": "NDVI"
+    },
+    {
+      "name": "PANNING"
+    },
+    {
+      "name": "PIXEL_PEEPS"
+    },
+    {
+      "name": "RAW"
+    },
+    {
+      "name": "REAR_LENSE_CAP"
+    },
+    {
+      "name": "SENSOR"
+    },
+    {
+      "name": "SOFT_FOCUS"
+    },
+    {
+      "name": "SPLIT_DIMMER"
+    },
+    {
+      "name": "SUNSTAR"
+    },
+    {
+      "name": "TRIPOD"
+    },
+    {
+      "name": "UV_FILTER"
+    },
+    {
+      "name": "WATERMARK"
+    },
+    {
+      "name": "FILL_FLASH"
+    },
+    {
+      "name": "ISO"
+    },
+    {
+      "name": "LONG_EXPOSURE_PHOTOGRAPHY"
+    },
+    {
+      "name": "LOW_LIGHT_PHOTOGRAPHY"
+    },
+    {
+      "name": "MACRO_PHOTOGRAPHY"
+    },
+    {
+      "name": "NIGHT_SKY_PHOTOGRAPHY"
+    },
+    {
+      "name": "PANORAMA"
+    },
+    {
+      "name": "PORTRAIT_PHOTOGRAPHY"
+    },
+    {
+      "name": "REFLEX_CAMERA"
+    },
+    {
+      "name": "SHUTTER_PRIORITY_MODE"
+    },
+    {
+      "name": "SPORTS_PHOTOGRAPHY"
+    },
+    {
+      "name": "STREET_PHOTOGRAPHY"
+    },
+    {
+      "name": "TRAVEL_PHOTOGRAPHY"
+    },
+    {
+      "name": "UNDERWATER_PHOTOGRAPHY"
+    },
+    {
+      "name": "VIEWFINDER"
+    },
+    {
+      "name": "WILDLIFE_PHOTOGRAPHY"
+    },
+    {
+      "name": "ND_FILTER"
+    },
+    {
+      "name": "RETROPHOTO"
+    },
+    {
+      "name": "SELFIE"
+    },
+    {
+      "name": "SNOWFLAKE"
+    },
+    {
+      "name": "SUNSET"
+    },
+    {
+      "name": "WATERCOLOR"
+    },
+    {
+      "name": "WEDDING_PHOTOGRAPHY"
+    },
+    {
+      "name": "WIDE_ANGLE"
+    },
+    {
+      "name": "YOLO"
+    }
+  ]
+}

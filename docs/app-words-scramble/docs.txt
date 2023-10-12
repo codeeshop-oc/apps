@@ -1,0 +1,12 @@
+https://new.express.adobe.com/tools/resize-image#
+https://studio.app-mockup.com/
+https://www.canva.com/design/DAFs6yPa1Yw/ukcQo3MNtocyMiCEJkicCQ/edit
+
+cordova plugin add @codeeshop/cordova-plugin-google-play-games --variable GAME_SERVICES_PROJECT_ID=words-scramble-59162069
+
+icongenie g --splashscreen-color 00bf63 -i /home/anantnegi/git/app-words-scramble/docs/words-scramble.png
+
+
+/home/anantnegi/git/app-words-scramble/src-cordova/res/android/mipmap-mdpi
+/home/anantnegi/git/app-words-scramble/src-cordova/platforms/android/app/src/main/res/mipmap-mdpi
+

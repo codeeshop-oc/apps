@@ -1,0 +1,358 @@
+{
+  "words": [
+    {
+      "name": "AEROBIC"
+    },
+    {
+      "name": "BALCONY"
+    },
+    {
+      "name": "BORDER"
+    },
+    {
+      "name": "CALENDAR"
+    },
+    {
+      "name": "CLIMBERS"
+    },
+    {
+      "name": "COFFEE"
+    },
+    {
+      "name": "COMPOST"
+    },
+    {
+      "name": "CULTIVATE"
+    },
+    {
+      "name": "DIGGING"
+    },
+    {
+      "name": "DISBUD"
+    },
+    {
+      "name": "EDIBLE"
+    },
+    {
+      "name": "FERTILIZER"
+    },
+    {
+      "name": "GARDEN"
+    },
+    {
+      "name": "GREENHOUSE"
+    },
+    {
+      "name": "HARVEST"
+    },
+    {
+      "name": "HORTICULTURAL"
+    },
+    {
+      "name": "IRRIGATION"
+    },
+    {
+      "name": "LANDSCAPE"
+    },
+    {
+      "name": "LAWN"
+    },
+    {
+      "name": "MULCH"
+    },
+    {
+      "name": "ORGANIC"
+    },
+    {
+      "name": "PATIO"
+    },
+    {
+      "name": "PESTS"
+    },
+    {
+      "name": "PLANT"
+    },
+    {
+      "name": "POTTING"
+    },
+    {
+      "name": "RAKE"
+    },
+    {
+      "name": "RESIDUAL"
+    },
+    {
+      "name": "PRUNING"
+    },
+    {
+      "name": "RETAINING"
+    },
+    {
+      "name": "SEED"
+    },
+    {
+      "name": "SHED"
+    },
+    {
+      "name": "SOIL"
+    },
+    {
+      "name": "SPRAY"
+    },
+    {
+      "name": "SPROUT"
+    },
+    {
+      "name": "STRAW"
+    },
+    {
+      "name": "TEMPERATURE"
+    },
+    {
+      "name": "TILLER"
+    },
+    {
+      "name": "TRANSPLANT"
+    },
+    {
+      "name": "WATERING"
+    },
+    {
+      "name": "WEEDS"
+    },
+    {
+      "name": "YARD"
+    },
+    {
+      "name": "AROMA"
+    },
+    {
+      "name": "BANKER"
+    },
+    {
+      "name": "BEAUTY"
+    },
+    {
+      "name": "BULB"
+    },
+    {
+      "name": "CLOAK"
+    },
+    {
+      "name": "CLOVE"
+    },
+    {
+      "name": "COLONY"
+    },
+    {
+      "name": "DEWDROP"
+    },
+    {
+      "name": "DRAGON"
+    },
+    {
+      "name": "EMBEZZLE"
+    },
+    {
+      "name": "FEATHER"
+    },
+    {
+      "name": "FOCUS"
+    },
+    {
+      "name": "FORAGE"
+    },
+    {
+      "name": "GROWTH"
+    },
+    {
+      "name": "HERB"
+    },
+    {
+      "name": "HONEY"
+    },
+    {
+      "name": "HUSBANDRY"
+    },
+    {
+      "name": "IMPACT"
+    },
+    {
+      "name": "IRONWORK"
+    },
+    {
+      "name": "JAR"
+    },
+    {
+      "name": "LABEL"
+    },
+    {
+      "name": "LABOUR"
+    },
+    {
+      "name": "LILY"
+    },
+    {
+      "name": "LIQUID"
+    },
+    {
+      "name": "MOLE"
+    },
+    {
+      "name": "MORTAR"
+    },
+    {
+      "name": "MUSTARD"
+    },
+    {
+      "name": "NURTURE"
+    },
+    {
+      "name": "ORIENT"
+    },
+    {
+      "name": "PLOT"
+    },
+    {
+      "name": "PLUM"
+    },
+    {
+      "name": "POLLINATE"
+    },
+    {
+      "name": "POTASH"
+    },
+    {
+      "name": "PRESERVE"
+    },
+    {
+      "name": "PROTECT"
+    },
+    {
+      "name": "RADIANCE"
+    },
+    {
+      "name": "REFLECT"
+    },
+    {
+      "name": "RELISH"
+    },
+    {
+      "name": "RESCUE"
+    },
+    {
+      "name": "RIDGE"
+    },
+    {
+      "name": "RIVER"
+    },
+    {
+      "name": "ROCKET"
+    },
+    {
+      "name": "ROOT"
+    },
+    {
+      "name": "STEAM"
+    },
+    {
+      "name": "SWEETHEART"
+    },
+    {
+      "name": "TENDER"
+    },
+    {
+      "name": "TILTH"
+    },
+    {
+      "name": "TOMATO"
+    },
+    {
+      "name": "TRANSFER"
+    },
+    {
+      "name": "TUNNEL"
+    },
+    {
+      "name": "WATER"
+    },
+    {
+      "name": "WEATHER"
+    },
+    {
+      "name": "WEEPING"
+    },
+    {
+      "name": "WILDFLOWER"
+    },
+    {
+      "name": "WISDOM"
+    },
+    {
+      "name": "BUDGERIGAR"
+    },
+    {
+      "name": "COMPOSTING"
+    },
+    {
+      "name": "DISHWATER"
+    },
+    {
+      "name": "DOORMAT"
+    },
+    {
+      "name": "GARDENING"
+    },
+    {
+      "name": "HARVESTING"
+    },
+    {
+      "name": "HUMUS"
+    },
+    {
+      "name": "LAWNMOWER"
+    },
+    {
+      "name": "LEAFLET"
+    },
+    {
+      "name": "NODULE"
+    },
+    {
+      "name": "NURSERIES"
+    },
+    {
+      "name": "ORCHID"
+    },
+    {
+      "name": "PLANTING"
+    },
+    {
+      "name": "RECYCLING"
+    },
+    {
+      "name": "SEEDS"
+    },
+    {
+      "name": "SHEARS"
+    },
+    {
+      "name": "SHRUBS"
+    },
+    {
+      "name": "SOILS"
+    },
+    {
+      "name": "TOPSOIL"
+    },
+    {
+      "name": "TRANSPLANTING"
+    },
+    {
+      "name": "WHEELBARROW"
+    },
+    {
+      "name": "WINDOWBOX"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "words": [
+    {
+      "name": "CAR"
+    },
+    {
+      "name": "TRUCK"
+    },
+    {
+      "name": "MOTORCYCLE"
+    },
+    {
+      "name": "BUS"
+    },
+    {
+      "name": "VAN"
+    },
+    {
+      "name": "JEEP"
+    },
+    {
+      "name": "CONVERTIBLE"
+    },
+    {
+      "name": "PICKUP"
+    },
+    {
+      "name": "LIMOUSINE"
+    },
+    {
+      "name": "SPORTS CAR"
+    },
+    {
+      "name": "HYBRID"
+    },
+    {
+      "name": "ELECTRIC CAR"
+    },
+    {
+      "name": "MINVAN"
+    },
+    {
+      "name": "SUV"
+    },
+    {
+      "name": "STATION WAGON"
+    },
+    {
+      "name": "HATCHBACK"
+    },
+    {
+      "name": "COUPE"
+    },
+    {
+      "name": "SEDAN"
+    },
+    {
+      "name": "PICKUP TRUCK"
+    },
+    {
+      "name": "SEMI TRUCK"
+    },
+    {
+      "name": "FIRE TRUCK"
+    },
+    {
+      "name": "POLICE CAR"
+    },
+    {
+      "name": "AMBULANCE"
+    },
+    {
+      "name": "TAXI"
+    },
+    {
+      "name": "MINIVAN"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "words": [
+    {
+      "name": "ALGORITHM"
+    },
+    {
+      "name": "APPLICATION"
+    },
+    {
+      "name": "ARRAY"
+    },
+    {
+      "name": "BINARY"
+    },
+    {
+      "name": "BIT"
+    },
+    {
+      "name": "BYTE"
+    },
+    {
+      "name": "CACHE"
+    },
+    {
+      "name": "CARD"
+    },
+    {
+      "name": "CHIPSET"
+    },
+    {
+      "name": "CLOUD"
+    },
+    {
+      "name": "CODE"
+    },
+    {
+      "name": "COMPILER"
+    },
+    {
+      "name": "COMPUTER"
+    },
+    {
+      "name": "CONNECTIVITY"
+    },
+    {
+      "name": "DATA"
+    },
+    {
+      "name": "DATABASE"
+    },
+    {
+      "name": "DEBUGGING"
+    },
+    {
+      "name": "DEVICE"
+    },
+    {
+      "name": "DIGITAL"
+    },
+    {
+      "name": "DISK"
+    },
+    {
+      "name": "DISPLAY"
+    },
+    {
+      "name": "DRIVER"
+    },
+    {
+      "name": "ENCRYPTION"
+    },
+    {
+      "name": "ETHERNET"
+    },
+    {
+      "name": "FIREWALL"
+    },
+    {
+      "name": "FIRMWARE"
+    },
+    {
+      "name": "FONT"
+    },
+    {
+      "name": "GRAPHICS"
+    },
+    {
+      "name": "HARDWARE"
+    },
+    {
+      "name": "HARD DRIVE"
+    },
+    {
+      "name": "HEADER"
+    },
+    {
+      "name": "HEXADECIMAL"
+    },
+    {
+      "name": "INPUT"
+    },
+    {
+      "name": "INTERFACE"
+    },
+    {
+      "name": "INTERNET"
+    },
+    {
+      "name": "KERNEL"
+    },
+    {
+      "name": "LANGUAGE"
+    },
+    {
+      "name": "LAPTOP"
+    },
+    {
+      "name": "LIBRARY"
+    },
+    {
+      "name": "LOGIC"
+    },
+    {
+      "name": "MEMORY"
+    },
+    {
+      "name": "MICROPROCESSOR"
+    },
+    {
+      "name": "NETWORK"
+    },
+    {
+      "name": "OPERATING SYSTEM"
+    },
+    {
+      "name": "OUTPUT"
+    },
+    {
+      "name": "PACKET"
+    },
+    {
+      "name": "PARALLEL"
+    },
+    {
+      "name": "PASSWORD"
+    },
+    {
+      "name": "PIXEL"
+    },
+    {
+      "name": "PORT"
+    },
+    {
+      "name": "PROCESSOR"
+    },
+    {
+      "name": "PROGRAM"
+    },
+    {
+      "name": "PROTOCOL"
+    },
+    {
+      "name": "RANDOM ACCESS MEMORY"
+    },
+    {
+      "name": "REAL TIME"
+    },
+    {
+      "name": "SECURITY"
+    },
+    {
+      "name": "SERVER"
+    },
+    {
+      "name": "SOFTWARE"
+    },
+    {
+      "name": "STORAGE"
+    },
+    {
+      "name": "STRING"
+    },
+    {
+      "name": "SYSTEM"
+    },
+    {
+      "name": "TERMINAL"
+    },
+    {
+      "name": "THREAD"
+    },
+    {
+      "name": "TOPOLOGY"
+    },
+    {
+      "name": "UNIT"
+    },
+    {
+      "name": "USER INTERFACE"
+    },
+    {
+      "name": "VIRTUAL MACHINE"
+    },
+    {
+      "name": "WEB"
+    },
+    {
+      "name": "WEBSITE"
+    },
+    {
+      "name": "WIRELESS"
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+https://play.google.com/store/apps/details?id=com.chess.chesscoach&hl=en&gl=US
+
+<uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+
+otpauth://totp/GitHub:codeeshop-oc?secret=IX6E4K2F54LGOU7U&issuer=GitHub
+=========
+
+var jsonArray = []
+
+for(let i = 0; i < 20; i++) {
+  jsonArray = [...jsonArray, ...jsonArray]
+}
+console.log(jsonArray.length)
+
+const uniqueJsonArray = jsonArray
+/*
+const uniqueJsonArray = jsonArray.filter((json, index, self) => { 
+  return index === self.findIndex((j) => (
+    j.question === json.question
+  ));
+});
+*/
+
+console.log(uniqueJsonArray)
+=====================
+secret_key
+julienpascual
+
+to understand all bugs this how I suggest you proceed :
+- Create a new customer account from main site (filling all information of registration form)
+- validate your customer from BO
+- make an order to subscribe to mondosofa group-buy
+- on BO change your group to mondosofa and make default mondosofa too (for your customer) and deselect customer
+
+- Now access main site again, if you are already logged in, you should see "mon espace" orange button
+- click on it
+- it should redirect you to subdomain site test.canaperapido.fr/marques and on the home page.
+- since you are part of Mondosofa group, you have access to product catalog to create an order.
+- when ordering on addresses section you are offered "shop" or "end-customer"
+- if shop is selected, customer has the possibility to add a "shop delivery" address (here please check attached image). An address should be visible, now since no shop delivery has been set up it is empty (check attached image).
+- create several orders on subdomain site, at least 2 for shop to see behavior, and at least 3 orders for end-customer (now has a problem check image).
+
+Now go back to main domain to purchase another subscription or create another order and you will see that all adresses registered on subdomain site are listed (was the case before this new install and I cannot confirm it now since I can't order because of loop error, check image attached) while it should only list "shop billing" address since customer is purchasing a subscription for himself.
+
+Hope this guideline helps you.
+=============
+const json = []
+
+const key = "text";
+
+// Create a Set object to store the unique values.
+const uniqueValues = new Set();
+
+// Iterate over the JSON object and add the values of the specified key to the Set object.
+for (const item of json) {
+  uniqueValues.add(item[key]);
+}
+
+// Get the array of unique values.
+const arrayOfUniqueValues = Array.from(uniqueValues);
+
+const all_new_values = []
+for (let index = 0; index < arrayOfUniqueValues.length; index++) {
+    all_new_values.push({
+        "text": arrayOfUniqueValues[index],
+        "type": "icebreakers for first date"
+    })
+}
+console.log(all_new_values); 
+
+===============
+
+
+https://addons.prestashop.com/en/emails-notifications/26585-live-sales-popup-product-sold-notification.html
+https://addons.prestashop.com/en/additional-information-product-tab/45796-product-slider-pro-categories-related-products.html
+https://addons.prestashop.com/en/sliders-galleries/27862-amazing-gallery-responsive-images-gallery-zoom.html
+https://addons.prestashop.com/en/delivery-date/20307-delivery-dates-wizard-pro.html
+https://addons.prestashop.com/en/delivery-date/18313-delivery-dates-wizard.html
+https://addons.prestashop.com/en/delivery-date/19656-estimated-delivery-date.html
+https://addons.prestashop.com/en/blocks-tabs-banners/18173-category-fields.html
+
+
+
+
+java -jar /home/anantnegi/git/bundletool.jar build-apks --bundle=/home/anantnegi/git/strong-keypass2/strong-keypass/dist/cordova/android/bundle/release/app-release.aab --output=/home/anantnegi/git/strong-keypass2/strong-keypass/output.apks --mode=universal
+
+
+
+Community Safety Network: An app that connects neighbors and local communities to enhance safety and security. It could allow users to report suspicious activities, share safety tips, and receive alerts about local incidents or emergencies.
+
+
+Emergency Preparedness Toolkit: An app that provides essential information and resources for emergency situations. It could include first aid instructions, emergency contact numbers, disaster preparedness tips, and real-time alerts.
+
+Personal Development Tracker: An app that helps users track their personal growth and development goals. It could include features like habit tracking, goal setting, journaling prompts, and motivational resources.
+
+Allergy and Ingredient Scanner: An app that helps users with allergies or dietary restrictions identify potential allergens or harmful ingredients in food products. It could scan barcodes or ingredient lists and provide detailed information and alternatives.
+
+=============
+ 
+● BUT after a few tests I believe this option should only be visible on subdomain. Can
+you please change it ?
+—> +click here if you need a different address for delivery
+
+=> This is attached to address code so to change that will be charged and i have to move more code attached to make it work with shop billing and shop delivery address
+
+3.5. If searching for an existing customer, please make the dropdown-alias-search-feature
+more understandable, it is not obvious this is a search box.
+
+===============
+
+const eles = document.querySelectorAll('[data-file-deleted="true"]')
+const files = []
+for(let i = 0; i < eles.length; i++) {  
+  files.push(eles[i].getAttribute('data-tagsearch-path'))
+}
+
+cordova plugin add admob-plus-cordova --save --variable APP_ID_ANDROID=ca-app-pub-xxx~xxx --variable APP_ID_IOS=ca-app-pub-xxx~xxx
+cordova plugin add admob-plus-cordova --save --variable APP_ID_ANDROID=ca-app-pub-2651937733960821~1154823163
+cordova plugin add admob-plus-cordova --save --variable APP_ID_ANDROID=ca-app-pub-2651937733960821~7473061334
+
+https://medium.com/@lablnet/capture-screenshot-of-website-from-url-using-php-2f25487c068
+
+
+likes-redeem-cute-fun
+account id: acct_1GBd02IB6uNDHA5T
+===========================================
+
+All To Be Test And Working On All Sites
+
+1 - Note The Stripe Connect is already done but needs to be recheck again. My last developer did link to paypal without telling me. I don't know what him done.
+
+1 - On all sites – the writing to be on Liberation Serif
+
+2 - Some of the sites will need some design changes but little
+
+3 - All extensions with the new updates/changes send back to me.
+
+4 - I need a single page design with link/logo to connect to the admins for the sites – simple one
+I will send an example ( google ).
+
+
+5 - Limerance London
+
+1 Add both stripe extensions/recurring accounts
+
+2 Add a logo into the botton of the footer/ facility
+
+3 admin to change to products_lime/index.php?route=common/login
+
+4 bring from old site the tfa extension to new one – note I already did instal but is giving an error
+
+5 Access/edit to the button of the footer – done already
+
+6 Add the booking system extension
+
+
+
+6 - encrypted security
+
+1 Stripe both extensions
+2 Design change for a simple search
+3 Background colour to change, same has the rest of the website ( button page )
+4 tfa extension
+5 Access/edit to the button of the footer – done already
+
+
+7 - oneoffecommerce
+
+1 add stripe both extensions
+2 tfa extension
+
+
+8 - Products Categories
+
+1 On the backend. form need to setup in order the information on the form
+
+1 Title ,
+2 Image to upload,
+3 By name of the company
+4, TxT or news,article and etc info ,
+5 Txt Link to the website
+
+News
+Article
+Press Release
+Event
+
+2 Top page to delete Submit Business
+3 Add stripe both extensions – one is already there
+4 tfa extension
+5 add the new multi merchant 0.3
+
+9 - Jaoc
+
+1 Add tfa
+2 Multi Merchant 0.3 to the button page link
+3 Add both extensions of Stripe
+4 Add Booking System
+5 Delete the Add to Cart but the link for the cart to go to the advertising. Plus there is a double image
+
+10 - I need some code to go over to limerancelondon extension (multi merchant 0.3). You can copy from the extension from opencart Multi Vendor Markplace
+
+for the backend that will do is for the (Mass Payout) to be Bulk Payment facility/click to pay all the vendors just in one click. You can take that code from the extension I will not going to use but I will send to you and it can be extract and do the changes.
+
+11 - Extensions
+
+The extensions to send the files to me pls when all done and save
+
+Let me know if you dont got all of it.
+
+ok no problem. I forgot one point but is just for delete on the software of the merchant. Let me know.
+
+=====================================================================
+
+
+
+Hi,
+I would enable the prestashop module to accept payments and will enable the accepted credit cards which Paypal offers.
+Thanks for the above details
+
+========= carefultoday.com ===========
+// Wordpress Admin 
+admin
+anantcarefultodaY@995
+thoughtsmining.com
+====================================
+
+https://aitohuman.org/ai-to-human-text-converter-simple/
+create blog heading tagline, tags, define category and moral of story for story: 
+
+
+
+Yes carrier are assigned based on previous selected options:
+shop delivery
+=> i will create a backoffice setting to select the carriers to show which carrier to display based on selected type (end customer or shop)
+
+
+I've just uploaded the module but I see some kind of unexpected behavior. In all sites, maybe my hosting did some update that is affecting module "validate customer". On canaperapido.fr and test.canaperapido.fr it sends an email to admin saying a new customer has registered (ok) but on demo.canaperapido.fr the email received is empty ? Also, on all sites when activating/validating the customer it does not send an email to customer saying so while it did 2 days ago and I haven't done anything since then...if you could look into this please. Thanks.
+
+
+
+categories/brands 20
+Shop billing/Shop delivery 20
+Customer identity / do not change data 20
+shop delivery: 20
+shop/end-customer: 60
+select carrier: 40
+adding new page to show end customer address of customer: 30
+older page only delivery / billing address of customer: 30
+order history page update brand + alias: 30
+back office order list page brand: 20
+
+changin Société shop text to magasin address
+
+He can create another address for delivery if “shop delivery” address is different from billing address. 
+=> so these two alias will be fixed "shopdelivery and shopbilling" and others can change right?
+
+All fields should be required in shipping address when shipping address is different and nothing is optional.
+=> right ?
+
+
+enter search box to filter customer-delivery-address-alias 
+=> i will add a dropdown/filter box to select the any one of the previously filled address other than shop billing and shop delivery ?
+and then all the address field will be filed ok?
+
+for end customer there is no billing info since this is a B2B site. canaperapido.fr does the billing to his distributer/reseller which is the inital registring account information.
+=> so i need to add the billing address ( from shop address for the user ) right?
+
+
+==========
+
+Hi,
+As i have gone through your requirements i have detailed my doubts. Please have a look.
+I require the following
+Fiels for personal	 information:
+Full Name:
+Email:
+Phone Number:
+Password:
+Country:
+Please ensure that the checkbox for "I agree to the terms and conditions and the privacy policy" is the only one displayer.
+=> ok will change fields as you have mentioned above with in personal information section while customer try to register in order page.
+
+Also, please remove the option for shipping on all products.
+=> As this will require to change the core of prestashop feature on how the shipping work in prestashop for produdcts and i can do it with 2 different ways
+1. I can hide the shipping address ( but it will be visible in order address) and accept the default shipping address without displaying it to customer 
+2. I can remove the shipping address completely so it won't display in order details page too
+
+Categories don’t work anymore after the editing, can you check what the conflicts
+=> as checked and disabled the module i found out that it is not from the my current module changes that i had made so will charge $20 to fix it. Please confirm so i can proceed thanks
+
+also can we do with stripe the same thing we did with paypal https://stripe.com/docs/payment-links/api
+=> in stripe it requires to add product and price first and we have to send a product name ( we can use custom name too) let me know what to send in product name and then i will send that from code end when implmenting the module
+
+
+Let me know whichever to follow and proceed with so i can quote my prices accoringly
+Thanks
+
+=====
+
+
+Write about values that matter to you.
+Explain a problem in your industry and offer a solution.
+Describe a time you were challenged and how you faced it.
+Write about the idea of self-care and what it means to you.
+Recount a tough lesson you've learned lately.
+Tell a story about one of the following words: success, fulfillment, growth, achievement.
+Write about how a mentor has changed your perspective.
+Describe an event you remember from childhood and how it shaped your career.
+Share a relationship that impacted you.
+Write about the goals you'd like to work toward in the next five years.
+Reveal a superpower you'd love to have and what you'd do with it.
+Describe your definition of happiness.
+Write about your opinion of the world.
+Share a list of your best career tips.
+Discuss how flaws can be seen as strengths.
+Write about a time when you were incredibly happy or sad.
+Share the most recent thing you've learned about yourself.
+Choose three of your beliefs and why they matter to you.
+Dive into life lessons you believe everyone can benefit from learning.
+Describe your daily routines and how they impact you.
+Imagine your own secret lair and explain what's inside.
+Tell a story about achievement.
+Describe the trip of a lifetime.
+Share your ideal way to spend a favorite holiday.
+Choose three photos with different scenes and create a story to tie them together.
+Write about the ups and down of your first job.
+Select a cause you're passionate about and explain why it matters.
+Pick one of your dreams, and describe how you'd bring it to life.
+Write about a person you admire.
+Explain what makes you feel fragile or strong.
+Write about something intangible: faith, magic, energy, power, or creativity.
+
+============
+Career
+Business
+Marketing
+Sales
+Web Development and Design
+Education
+Real Estate
+Pop Culture and Entertainment
+Gaming
+Finance
+Food and Beverage
+Fashion and Beauty
+Pets
+Hobbies
+Technology
+Personal Relationships
+News and Politics
+Self-Care and Wellness
+Sports and Exercise
+Travel
+
+
+write a 2000+ words blog so even a human child can understand and take interest in reading on topic "10 Important Mindset Tweaks Guys Can Make To Finally Kickstart Their Personal Fitness Journey"
+with table of contents and conclusion
+
+
+=====
+
+<tbody><tr><td height="14" bgcolor="#FFFFFF">English</td><td valign="middle" bgcolor="#FFFFFF" align="center">:</td><td bgcolor="#ffffff">What is your name</td></tr><tr><td bgcolor="#FFFFFF">Garhwali</td><td valign="middle" bgcolor="#FFFFFF" align="center">:</td><td bgcolor="#ffffff">Tyar naam kya cha?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">My name is Kamal</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Myar naam kamal cha.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td width="12%" bgcolor="#FFFFFF">English</td><td width="8%" valign="middle" bgcolor="#FFFFFF" align="center">:</td><td width="80%" bgcolor="#ffffff">How are you?</td></tr><tr><td bgcolor="#FFFFFF">Garhwali</td><td valign="middle" bgcolor="#FFFFFF" align="center">:</td><td bgcolor="#ffffff">Tum kan chee?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">I am fine. How are you?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Me theek chaun. Tu kan che?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">How are other members of the family?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Ghar maa(n) aur log kan chan?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">They all are fine.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Woo bhi sab theek chan.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">What are you doing these days?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Aajkal kya kanu che?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">I am teaching in a school.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Me ek school maa(m) padhanoo chau(n).</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Where do you live?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Tu kha(n)k rehandi?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">I live in Pushp Vihar near Saket</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Me saket ka bagal maa(n) pushp vihar maa(n).</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Who else lives with you?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Tyar dagad aur ku ku rahndan?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">I live with my parents, younger sister, elder brother and bhabi.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Me maji, pitaji, choti bhuli, bhai aur bhabhi dagad.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">So your elder brother got married? When?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">O.. badu bhaai ka byoh kab hwaai?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Last year.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Pichal saal.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">In which class is your sister studying?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Bhuli kai class maa(n) padhni cha?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">She is studying in 11th class.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Wa 11th ma cha.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">What are doing this Sunday?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Ye itvaar kun tu kyaa kani che?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Nothing planned as such.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Abhi ta kuch khaas ni cha.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Why don't you come to our home on Sunday?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Tu myaar ghar kilai ni aie jandi itvaar kun?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Everyone will be happy to see you after such a long time.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Sab log khush whal twetai dekhi kan.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">I myself want to see them all. I will try to come on Sunday</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Me khud bhi woon tai milnu cha(n)dhu. Theek cha me dekhud chaun itvaar kun</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Ok. I shall leave now.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Theek cha. Ab me chaldu chau(n).</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Well, see you on Sunday.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Theek cha, fir itvaar kun mildwaa(n).</td></tr><tr align="center"><td colspan="3" bgcolor="#ffffff"><a href="/culture/learn-garhwali-lesson-2">Continue to Lesson 2</a></td></tr></tbody>
+
+<tbody><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">What is your name?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Tyaar naam kyaa cha?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">My name is Kamal.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Myaar naam kamal cha.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">How are you?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Tu ka(n) che?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">I am fine.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Me theek choun.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td width="11%" bgcolor="#ffffff">English</td><td width="8%" valign="middle" bgcolor="#ffffff" align="center">:</td><td width="81%" bgcolor="#ffffff">Where do you live?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Tu kakh rehndi?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">I live in Pushp Vihar opposite to Shiv Temple.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Me shiv mandir ka saamani Pushp Vihar maa rau(n)du.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">In which class do you read?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Tu katug maa padhdi?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">I read in eleventh class.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Me 11 maa.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">What is the name of your school?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Tumaari school ka naam kyaa cha?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">The name of my school is GIC Narayan Nagar.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Meri school ka naam GIC Narayan Nagar cha.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">How many brothers and sister do you have?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Tyaar kathgaa bhaai-bainaa cha(n)?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">I have a younger brother and a elder sister.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Myaar ek chotu bhai cha aur badi bhuli cha.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">What are you doing these days?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Ajkaal kya kani che tu?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">I am preparing for Civil Services Exams.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Me Civil Services ka tyaari kanu chau(n).</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">What did your father do?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Tyaar pitaaji kakh kaam karda(n)?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">My father is serving Indian Army.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Myaar pitaji faouj maa chan.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">How is your grandfather feeling now?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Tyaar daada ab kan cha?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">He is fine now.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Woh ab theek cha(n).</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Where in Uttaranchal are you from?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Tu Uttaranchal maa(n) ka(n)kh rehndi?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">I am from Champawat in Kumaon.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Me Kumaon bitik chaoun. Champawat naam cha myar gaon ka.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Had you ever been to Nainital?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Tu kabhi Nainital gaye che?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Yes, many times.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Haan katkai baar.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Where is your village?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Tyaar gaon kakh cha?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">My village is in Lohaghat. It is called Raushaal.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Myaar gaon Lohaghat ka taraf cha. Naam cha Raushaal.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">When did you last visited your village?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Pichali baar gaon kab gaye tu?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">I visited last year in October.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Me pichal saal October ma gaye chyai.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Do you have electricity in your village?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Tumaar gaon ma bijali cha?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">No.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Na yaar.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">How many cows and goats do you have?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Tyar kathga gor-bakhara chan?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">We have 2 cows and 5 goats.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Myar dui gaur aur paanch bakhara chan.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">How was the wheat crop last year?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Geehoon ki fasal kan che pichal saal?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Not too good. The standing crop was destroyed by the rain.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Jada badhiya ni che. Barkhaa na saari khadi fasal barbaad kar dyai.</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">How was the rain in previous season?</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Barakhaa kan che pichal saal?</td></tr><tr><td><br></td><td valign="middle" align="center"><br></td><td><br></td></tr><tr><td bgcolor="#ffffff">English</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">It was more than expected.</td></tr><tr><td bgcolor="#ffffff">Garhwali</td><td valign="middle" bgcolor="#ffffff" align="center">:</td><td bgcolor="#ffffff">Barakhaa ta kuch jada hi hwai.</td></tr><tr align="center"><td colspan="3" bgcolor="#ffffff" align="center"><a href="/culture/garhwal/learn-garhwali-lesson-3">Continue to Lesson 3</a></td></tr></tbody>   
+
+
+ChatGPT prompts for art (Midjourney)
+Artificial intelligence-powered art tools like Midjourney, DALL-E, and GANBreeder can help you create amazing visuals. Here are some ChatGPT prompts for AI art:
+
+Pretend you are creating a still-life painting featuring a vase of flowers. Generate five prompts that AI art tools like Midjourney can use to generate visuals for the painting.
+Create four AI art prompts that could be used to create a landscape scene with trees and mountains.
+Make a list of six concepts that can be used to create a portrait with the help of AI art tools.
+Write an AI art prompt that will generate a surreal image of an owl with bright colours and geometric shapes.
+Design three prompts for an AI art piece inspired by the works of Piet Mondrian.
+Develop five prompts for creating AI art using images from outer space, such as stars and galaxies.
+Create two prompts for an abstract painting of a boat featuring warm tones and soft lines.
+Write an AI art prompt that will generate a futuristic street scene where people are eating exotic space foods from street stalls.
+ChatGPT prompts for cooking
+Stuck on what to eat tonight? Let ChatGPT help! Here are some cooking-related ChatGPT prompts:
+
+Generate six ideas for vegetarian tacos that aren’t just beans and rice.
+Design four healthy snacks that use three ingredients or less.
+Create a meal plan for one week of vegan lunches, with a focus on creative flavour combinations.
+Write five slow cooker recipes that can be prepared in one hour or less.
+Develop three recipes for a weekend brunch that are easy to make but still look impressive.
+Write me a dinner recipe tonight. All I have in my fridge are potatoes, eggs, spinach, cheese, and spices like turmeric and cayenne pepper.
+Create a delicious vegan dessert recipe that can be enjoyed by someone with a nut allergy.
+Design a meal plan for one week of dinners that are high in protein and low in carbohydrates.
+ChatGPT prompts for nonprofits
+Using ChatGPT can help nonprofits create compelling content that resonates with their audience. Here are some ChatGPT prompts for nonprofits:
+
+Write a blog post about the importance of volunteerism and how it can make a difference in people’s lives.
+Design five fundraising ideas to support an environmental conservation initiative.
+Create three emails that will encourage readers to donate to a mental health charity.
+Generate four ideas for using video content to promote a youth empowerment program.
+Develop five social media posts that highlight the work of an animal rescue organization.
+Write an article about the power of community and how it can help people in need.
+Create two tips for housing nonprofits on developing a successful fundraising strategy.
+Create a Facebook event description for an art gallery charity gala that will attract donations from other local artists.
+ChatGPT prompts for real estate
+Using ChatGPT can help real estate professionals create content that resonates with their target audience. Try these on for size:
+
+Write a blog post about the advantages of living in a city versus living in the suburbs.
+Design four tips for renters on how to find an affordable apartment in their area.
+Create five social media posts that showcase a luxury beachfront property.
+Generate three ideas for using video content to promote a new affordable housing development.
+Pretend you are creating a digital brochure for a high-end condo building. Write five features that would be included in the brochure.
+Create an outline for a blog post discussing the latest interest hikes and what it means for Canadian mortgage holders.
+Write a series of questions first-time home buyers should ask their real estate agent.
+Develop four tips for how to stage a home in order to make it more attractive to potential buyers.
+Create an e-book guide that provides readers with information about the different types of mortgages available in Tenessee.
+ChatGPT prompts for law
+While ChatGPT can’t win a court case, it might be useful for helping lawyers create content related to their work. Here are some ideas you can use, but don’t forget to fact-check your content!
+
+Write a blog post about the importance of understanding the legal implications of a contract before signing it.
+Design four tips for entrepreneurs on how to protect their intellectual property rights.
+Role play a conversation between two recent divorcees and their attorneys, who are discussing a potential settlement. Pretend that divorcee number one wants to retain majority financial control of the couple’s shared assets, while divorcee number two wants a more equitable distribution. How should their lawyers respond?
+Create five social media posts that explain the basics of criminal law in easy-to-understand language.
+Generate three ideas for using video content to answer commonly asked questions about consumer rights.
+Generate five questions for private investigators might ask during an investigation into suspected tax fraud.
+Create three emails that will remind clients about the upcoming deadline for filing their taxes on time.
+Develop four tips for how small business owners can protect themselves from potential lawsuits.
+chatgpt response giving tips for small businesses to avoid lawsuits
+
+ChatGPT prompts for government agencies
+Government agencies can use ChatGPT to create content that is both informative and engaging. Here are some ideas you can try:
+
+Write a blog post outline about the benefits of participating in local government elections.
+Design four tips for newly elected officials on how to become effective public servants.
+Create five social media posts that explain the basics of taxation in easy-to-understand language.
+Write five questions for citizens to ask their elected representatives, in order to better understand the policy decisions related to a new development project.
+Create an email template that will be used to remind citizens of the upcoming deadline for filing their taxes on time.
+Develop four tips for how rural government agencies can use technology to improve citizen services.
+Create a series of infographic ideas that can explain the different stages involved in the legislative process.
+ChatGPT prompts for sales
+Sales professionals can work smarter, not harder, with these ChatGPT prompts for sales:
+
+Write a blog post about the importance of understanding customer needs before making a sales pitch.
+Pretend you’re a customer looking to add a social media management SaaS product to your tech stack. What pain points are you experiencing? What barriers do you have to bring this new product on?
+If you were creating a sales script for a new fashion-forward life jacket product launch, what three key messages would you include?
+Design four tips for cellular service provider cold calling that will help increase the success rate of callers.
+Generate three ideas for using video content to show prospects how easy it is to use a new online payment platform.
+Create a four-week sales strategy outline for a chef’s knife company looking to increase its market share in Japan.
+Write an elevator pitch for a productivity app that offers users a way to plan, track and manage tasks using their smartphone.
+Develop five social media posts that highlight the value of a cloud-based customer relationship management (CRM) system.
+ChatGPT prompts for email marketing
+Avoid common email marketing mistakes with these ChatGPT prompts:
+
+Design four tips for creating effective CTA buttons that will drive more conversions in emails.
+Write four email subject line options for an email announcing a new location for a skincare and naturopathy clinic.
+Create an email outline that will describe how a streaming subscription service’s new offline downloading features can save customers time and money.
+Pretend you are the CEO of an outdoor fashion brand. You’ve subscribed to a competitive analysis newsletter and you’ve received your first email. What three key messages should the email include to pique your interest?
+Write an email template that can be used to boost customer loyalty for a physiotherapy clinic by encouraging them to refer their friends and family members.
+Create an automation flow for an online clothing store, targeting customers who might be interested in sustainability, organic fabrics and ethical fashion.
+Write a short feedback survey for a wedding planner that will be included in a thank you note to the newlyweds. Keep it short and simple, and use a grateful and upbeat tone.
+ChatGPT prompts for user experience
+Create better user experiences with these ChatGPT prompts:
+
+Design four tips for improving the onboarding process for a mobile app that helps users track their budget.
+Write an article about how to design a website’s pages and menus in order to maximize user engagement.
+Write a series of survey questions that can be used to gain insight into what features users value most in a food delivery app.
+Generate three tips for designing a visual search interface that will make finding products faster and easier.
+Write out the most important features to include when designing a new email template for a B2C fashion brand.
+Develop four steps to consider when designing an AI assistant for a music streaming service.
+Create five micro-interactions that will help users navigate through a new ecommerce website.
+ChatGPT prompts for customer services
+Make customer service more convenient with these ChatGPT prompt examples:
+
+Design four conversation flows for a customer support chatbot that can provide quick, personalized responses to frequently asked questions.
+Create two social media post examples that explain the basics of returns and refunds in easy-to-understand language.
+Generate three ideas for using video content to demonstrate how customers set up a new stand-up desk product.
+Develop four tips for customer service agents on handling angry customers over the phone.
+Write five questions customer service agents should ask to accurately diagnose a product or account issue for an internet services customer.
+Write five general FAQ questions customers might have when shopping at a new online grocery store.
+Create an email template that will be used to remind customers of upcoming delivery deadlines for holiday orders.
+ChatGPT prompts for data science
+Data scientists can leverage ChatGPT to create better data-driven content with these prompts:
+
+Create an infographic that explains how to use predictive algorithms to reduce customer churn rates.
+Write a blog post outlining the basics of predictive analytics and its applications.
+Design four tips for setting up a machine learning system that can accurately detect customer sentiment in real-time.
+Pretend you are the data scientist at a large engineering firm. You need to develop an algorithm to predict which high-value customers will likely purchase a new product. What three features will be most important in determining purchase likelihood?
+Generate three ideas for using natural language processing (NLP) to automatically generate insights from customer reviews and feedback.
+Write a tutorial-style video script for how to use linear regression to forecast sales figures.
+ChatGPT prompts for tourism
+Make your destination the belle of the ball with these ChatGPT prompts for tourism:
+
+Create a six-month strategy outline for a regional tourism board looking to increase visitor numbers.
+Write four email subject line options for an email that will inform subscribers of an upcoming electronic music festival in Seattle, Washington.
+Design five social media post examples that highlight the best places to eat, stay and explore in Toronto.
+Generate three ideas for using video content to show potential visitors what their experience in the area will be like.
+Pretend you are a travel writer for an online magazine. Write an article about why your region should be on everyone’s bucket list.
+Develop a user-generated content (UGC) strategy for a small town in rural Alberta.
+chatgpt response giving email subject line options for a music festival in seattle
+
+ChatGPT prompts for e-commerce
+Help e-commerce businesses increase customer satisfaction with these ChatGPT prompt examples:
+
+Design four tips for optimizing the checkout process for a linen bedsheet company to reduce cart abandonment rates.
+Write three product description ideas that accurately showcase the features of a set of stainless steel kitchen knives.
+Pretend you own an online pet store. How would you design your website in order to convert first-time visitors into returning customers?
+Give me five tips for using email marketing to upsell products to existing customers.
+Create four customer service scripts that can be used when dealing with complaints about delivery times or refund processing.
+Explain in detail how to use A/B testing to determine the best product photos for an e-commerce store.
+
+
+
+
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore /home/anantnegi/git/rock_paper_scissors_time/my-release-key.keystore /home/anantnegi/git/rock_paper_scissors_time/src-cordova/platforms/android/app/build/outputs/bundle/release/app-release.aab rock_paper_scissors_time
+rock_paper_scissors_time@333
+zipalign -v 4 /home/anantnegi/git/rock_paper_scissors_time/src-cordova/platforms/android/app/build/outputs/bundle/release/app-release.aab rock_paper_scissors_time.aab
+
+
+
+rm -rf /home/anantnegi/git/extra/my_app.apks
+rm -rf /home/anantnegi/git/extra/my_app
+java -jar /home/anantnegi/git/bundletool.jar build-apks --bundle=/home/anantnegi/git/rock_paper_scissors_time/src-cordova/platforms/android/app/build/outputs/bundle/release/app-release.aab --output=/home/anantnegi/git/extra/my_app.apks --mode=universal
+unzip /home/anantnegi/git/extra/my_app.apks -d /home/anantnegi/git/extra/my_app
+adb install /home/anantnegi/git/extra/my_app/universal.apk
+
+
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore /home/anantnegi/git/rock_paper_scissors_time/src-cordova/rock_paper_scissors_time.keystore /home/anantnegi/git/src-cordova/rock_paper_scissors_time/src-cordova/platforms/android/app/build/outputs/bundle/release/app-release.aab rock_paper_scissors_time
+
+apksigner sign --ks /home/anantnegi/git/rock_paper_scissors_time/src-cordova/rock_paper_scissors_time.keystore --min-sdk-version 22 --ks-key-alias rock_paper_scissors_time /home/anantnegi/git/rock_paper_scissors_time/src-cordova/platforms/android/app/build/outputs/bundle/release/new-app-release.aab 
+rock_paper_scissors_time@995
+

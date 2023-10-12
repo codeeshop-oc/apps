@@ -1,0 +1,196 @@
+{
+  "words": [
+    {
+      "name": "USD"
+    },
+    {
+      "name": "EUR"
+    },
+    {
+      "name": "JPY"
+    },
+    {
+      "name": "GBP"
+    },
+    {
+      "name": "AUD"
+    },
+    {
+      "name": "CAD"
+    },
+    {
+      "name": "CHF"
+    },
+    {
+      "name": "CNY"
+    },
+    {
+      "name": "SEK"
+    },
+    {
+      "name": "NZD"
+    },
+    {
+      "name": "MXN"
+    },
+    {
+      "name": "SGD"
+    },
+    {
+      "name": "HKD"
+    },
+    {
+      "name": "NOK"
+    },
+    {
+      "name": "KRW"
+    },
+    {
+      "name": "TRY"
+    },
+    {
+      "name": "RUB"
+    },
+    {
+      "name": "INR"
+    },
+    {
+      "name": "BRL"
+    },
+    {
+      "name": "ZAR"
+    },
+    {
+      "name": "DKK"
+    },
+    {
+      "name": "PLN"
+    },
+    {
+      "name": "TWD"
+    },
+    {
+      "name": "THB"
+    },
+    {
+      "name": "IDR"
+    },
+    {
+      "name": "HUF"
+    },
+    {
+      "name": "CZK"
+    },
+    {
+      "name": "ILS"
+    },
+    {
+      "name": "CLP"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "AED"
+    },
+    {
+      "name": "COP"
+    },
+    {
+      "name": "SAR"
+    },
+    {
+      "name": "MYR"
+    },
+    {
+      "name": "RON"
+    },
+    {
+      "name": "PEN"
+    },
+    {
+      "name": "VND"
+    },
+    {
+      "name": "IQD"
+    },
+    {
+      "name": "QAR"
+    },
+    {
+      "name": "KWD"
+    },
+    {
+      "name": "BHD"
+    },
+    {
+      "name": "OMR"
+    },
+    {
+      "name": "LKR"
+    },
+    {
+      "name": "UAH"
+    },
+    {
+      "name": "BGN"
+    },
+    {
+      "name": "HRK"
+    },
+    {
+      "name": "DZD"
+    },
+    {
+      "name": "NGN"
+    },
+    {
+      "name": "EGP"
+    },
+    {
+      "name": "KES"
+    },
+    {
+      "name": "ZMW"
+    },
+    {
+      "name": "PKR"
+    },
+    {
+      "name": "BDT"
+    },
+    {
+      "name": "LBP"
+    },
+    {
+      "name": "MUR"
+    },
+    {
+      "name": "GHS"
+    },
+    {
+      "name": "XAF"
+    },
+    {
+      "name": "XOF"
+    },
+    {
+      "name": "XCD"
+    },
+    {
+      "name": "XPF"
+    },
+    {
+      "name": "XAU"
+    },
+    {
+      "name": "XAG"
+    },
+    {
+      "name": "XPT"
+    },
+    {
+      "name": "XPD"
+    }
+  ]
+}

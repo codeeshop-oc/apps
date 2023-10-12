@@ -1,0 +1,34 @@
+{
+  "words": [
+    {
+      "name": "SNAKE"
+    },
+    {
+      "name": "LIZARD"
+    },
+    {
+      "name": "ALLIGATOR"
+    },
+    {
+      "name": "CROCODILE"
+    },
+    {
+      "name": "TURTLE"
+    },
+    {
+      "name": "TORTOISE"
+    },
+    {
+      "name": "CHAMELEON"
+    },
+    {
+      "name": "IGUANA"
+    },
+    {
+      "name": "GECKO"
+    },
+    {
+      "name": "SALAMANDER"
+    }
+  ]
+}

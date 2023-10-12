@@ -1,0 +1,55 @@
+{
+  "words": [
+    {
+      "name": "BASS"
+    },
+    {
+      "name": "STRINGS"
+    },
+    {
+      "name": "FRETBOARD"
+    },
+    {
+      "name": "FINGERBOARD"
+    },
+    {
+      "name": "NECK"
+    },
+    {
+      "name": "BODY"
+    },
+    {
+      "name": "PICKUPS"
+    },
+    {
+      "name": "FINGERSTYLE"
+    },
+    {
+      "name": "SLAP BASICS"
+    },
+    {
+      "name": "POPPING"
+    },
+    {
+      "name": "TAPPING"
+    },
+    {
+      "name": "SLIDE TECHNIQUE"
+    },
+    {
+      "name": "FRETTED OR FRETLESS"
+    },
+    {
+      "name": "STANDUP OR UPRIGHT"
+    },
+    {
+      "name": "ELECTRIC OR ACOUSTIC"
+    },
+    {
+      "name": "JAZZ"
+    },
+    {
+      "name": "ROCK"
+    }
+  ]
+}

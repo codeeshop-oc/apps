@@ -1,0 +1,223 @@
+{
+  "words": [
+    {
+      "name": "ACCESS CONTROL"
+    },
+    {
+      "name": "ANTIVIRUS"
+    },
+    {
+      "name": "ATTACK"
+    },
+    {
+      "name": "AUTHENTICATION"
+    },
+    {
+      "name": "AUTHORIZATION"
+    },
+    {
+      "name": "BOTNET"
+    },
+    {
+      "name": "BRUTE FORCE"
+    },
+    {
+      "name": "BUFFER OVERFLOW"
+    },
+    {
+      "name": "CIPHER"
+    },
+    {
+      "name": "CLOUD SECURITY"
+    },
+    {
+      "name": "COMMAND AND CONTROL"
+    },
+    {
+      "name": "COMPLIANCE"
+    },
+    {
+      "name": "CREDENTIAL STUFFING"
+    },
+    {
+      "name": "CYBERATTACK"
+    },
+    {
+      "name": "CYBERCRIME"
+    },
+    {
+      "name": "CYBERSECURITY"
+    },
+    {
+      "name": "DENIAL OF SERVICE"
+    },
+    {
+      "name": "ENCRYPTION"
+    },
+    {
+      "name": "FIREWALL"
+    },
+    {
+      "name": "HASH"
+    },
+    {
+      "name": "INCIDENT RESPONSE"
+    },
+    {
+      "name": "MALWARE"
+    },
+    {
+      "name": "PHISHING"
+    },
+    {
+      "name": "RANSOMWARE"
+    },
+    {
+      "name": "RISK MANAGEMENT"
+    },
+    {
+      "name": "SECURITY INFORMATION AND EVENT MANAGEMENT (SIEM)"
+    },
+    {
+      "name": "SECURITY OPERATIONS CENTER (SOC)"
+    },
+    {
+      "name": "SOCIAL ENGINEERING"
+    },
+    {
+      "name": "SPOOFING"
+    },
+    {
+      "name": "THREAT INTELLIGENCE"
+    },
+    {
+      "name": "VULNERABILITY"
+    },
+    {
+      "name": "ZERO-DAY ATTACK"
+    },
+    {
+      "name": "ADVANCED ENCRYPTION STANDARD"
+    },
+    {
+      "name": "APPLICATION SECURITY"
+    },
+    {
+      "name": "ARTIFICIAL INTELLIGENCE"
+    },
+    {
+      "name": "ATTACK SURFACE MANAGEMENT"
+    },
+    {
+      "name": "CYBER ATTACK"
+    },
+    {
+      "name": "CYBER CRIME"
+    },
+    {
+      "name": "CYBER DEFENSE"
+    },
+    {
+      "name": "CYBER SECURITY"
+    },
+    {
+      "name": "CYBER THREAT"
+    },
+    {
+      "name": "DEEP LEARNING"
+    },
+    {
+      "name": "DATA SECURITY"
+    },
+    {
+      "name": "DIGITAL FORENSICS"
+    },
+    {
+      "name": "ENDPOINT SECURITY"
+    },
+    {
+      "name": "ENTERPRISE SECURITY"
+    },
+    {
+      "name": "ETHICAL HACKING"
+    },
+    {
+      "name": "EXTERNAL THREAT"
+    },
+    {
+      "name": "GENERATOR"
+    },
+    {
+      "name": "INFORMATION SECURITY"
+    },
+    {
+      "name": "INTERNAL THREAT"
+    },
+    {
+      "name": "INTRUSION DETECTION SYSTEM"
+    },
+    {
+      "name": "KEY MANAGEMENT"
+    },
+    {
+      "name": "NETWORK SECURITY"
+    },
+    {
+      "name": "PHYSICAL SECURITY"
+    },
+    {
+      "name": "PRIVACY"
+    },
+    {
+      "name": "SCADA SECURITY"
+    },
+    {
+      "name": "SOFTWARE SECURITY"
+    },
+    {
+      "name": "STORAGE SECURITY"
+    },
+    {
+      "name": "SUPPLY CHAIN SECURITY"
+    },
+    {
+      "name": "VIRTUAL PRIVATE NETWORK"
+    },
+    {
+      "name": "WEB APPLICATION SECURITY"
+    },
+    {
+      "name": "ATTACK SURFACE"
+    },
+    {
+      "name": "CALLBACK"
+    },
+    {
+      "name": "CLOUD COMPUTING"
+    },
+    {
+      "name": "CRYPTOGRAPHY"
+    },
+    {
+      "name": "DATA BREACH"
+    },
+    {
+      "name": "DATA LOSS PREVENTION"
+    },
+    {
+      "name": "HONEYPOT"
+    },
+    {
+      "name": "SECURITY ASSESSMENT"
+    },
+    {
+      "name": "SECURITY POLICY"
+    },
+    {
+      "name": "SECURITY TESTING"
+    },
+    {
+      "name": "SPAM"
+    }
+  ]
+}

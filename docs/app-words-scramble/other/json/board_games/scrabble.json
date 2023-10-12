@@ -1,0 +1,769 @@
+{
+  "words": [
+    {
+      "name": "ACTIVATE"
+    },
+    {
+      "name": "ACHIEVE"
+    },
+    {
+      "name": "ADJUST"
+    },
+    {
+      "name": "ADORE"
+    },
+    {
+      "name": "ADULT"
+    },
+    {
+      "name": "AFRAID"
+    },
+    {
+      "name": "AGREE"
+    },
+    {
+      "name": "AHEAD"
+    },
+    {
+      "name": "ALONE"
+    },
+    {
+      "name": "ALPHA"
+    },
+    {
+      "name": "AMBITION"
+    },
+    {
+      "name": "ANGLE"
+    },
+    {
+      "name": "ANIMAL"
+    },
+    {
+      "name": "ANSWER"
+    },
+    {
+      "name": "ANVIL"
+    },
+    {
+      "name": "OPTION"
+    },
+    {
+      "name": "ORIENT"
+    },
+    {
+      "name": "ORIGIN"
+    },
+    {
+      "name": "OUTSIDE"
+    },
+    {
+      "name": "PATIENCE"
+    },
+    {
+      "name": "PERFECT"
+    },
+    {
+      "name": "PERMISSION"
+    },
+    {
+      "name": "PHYSICAL"
+    },
+    {
+      "name": "PIANO"
+    },
+    {
+      "name": "PICTURE"
+    },
+    {
+      "name": "POSSIBLE"
+    },
+    {
+      "name": "PREFER"
+    },
+    {
+      "name": "PRESENT"
+    },
+    {
+      "name": "PRESSURE"
+    },
+    {
+      "name": "PRIVATE"
+    },
+    {
+      "name": "PROBLEM"
+    },
+    {
+      "name": "PRODUCE"
+    },
+    {
+      "name": "PROPERTY"
+    },
+    {
+      "name": "PROSPECT"
+    },
+    {
+      "name": "PULLOVER"
+    },
+    {
+      "name": "PURSUE"
+    },
+    {
+      "name": "QUARTER"
+    },
+    {
+      "name": "QUESTION"
+    },
+    {
+      "name": "QUIET"
+    },
+    {
+      "name": "RAISE"
+    },
+    {
+      "name": "REBELS"
+    },
+    {
+      "name": "RECORD"
+    },
+    {
+      "name": "RECYCLE"
+    },
+    {
+      "name": "REDO"
+    },
+    {
+      "name": "REFRESH"
+    },
+    {
+      "name": "RELENTLESS"
+    },
+    {
+      "name": "REMEDY"
+    },
+    {
+      "name": "REMOVE"
+    },
+    {
+      "name": "REPEAT"
+    },
+    {
+      "name": "REPLY"
+    },
+    {
+      "name": "RETAIN"
+    },
+    {
+      "name": "REUNION"
+    },
+    {
+      "name": "ROUSE"
+    },
+    {
+      "name": "ROUTINE"
+    },
+    {
+      "name": "RUSH"
+    },
+    {
+      "name": "SATISFIED"
+    },
+    {
+      "name": "SECRET"
+    },
+    {
+      "name": "SECURE"
+    },
+    {
+      "name": "SEPARATE"
+    },
+    {
+      "name": "SERIES"
+    },
+    {
+      "name": "SERVE"
+    },
+    {
+      "name": "SHADOW"
+    },
+    {
+      "name": "SHARP"
+    },
+    {
+      "name": "SHOOT"
+    },
+    {
+      "name": "SHRIMP"
+    },
+    {
+      "name": "SILENT"
+    },
+    {
+      "name": "SOUL"
+    },
+    {
+      "name": "SPADE"
+    },
+    {
+      "name": "SPARK"
+    },
+    {
+      "name": "START"
+    },
+    {
+      "name": "STRATEGY"
+    },
+    {
+      "name": "STREAM"
+    },
+    {
+      "name": "STRICT"
+    },
+    {
+      "name": "STRUCTURE"
+    },
+    {
+      "name": "SUCCESS"
+    },
+    {
+      "name": "SWEET"
+    },
+    {
+      "name": "TABLE"
+    },
+    {
+      "name": "TAP"
+    },
+    {
+      "name": "TEMPORARY"
+    },
+    {
+      "name": "TENT"
+    },
+    {
+      "name": "TIGHT"
+    },
+    {
+      "name": "TORN"
+    },
+    {
+      "name": "TOUCH"
+    },
+    {
+      "name": "TOUGH"
+    },
+    {
+      "name": "TRAIN"
+    },
+    {
+      "name": "TRANSFER"
+    },
+    {
+      "name": "TREASURE"
+    },
+    {
+      "name": "TRIANGLE"
+    },
+    {
+      "name": "UNABLE"
+    },
+    {
+      "name": "UNDERSTAND"
+    },
+    {
+      "name": "UNEXPECTED"
+    },
+    {
+      "name": "UNKNOWN"
+    },
+    {
+      "name": "UNSURE"
+    },
+    {
+      "name": "UPSET"
+    },
+    {
+      "name": "VARIABLE"
+    },
+    {
+      "name": "VENGEANCE"
+    },
+    {
+      "name": "WEAR"
+    },
+    {
+      "name": "WHEEL"
+    },
+    {
+      "name": "WONDER"
+    },
+    {
+      "name": "BISHOP"
+    },
+    {
+      "name": "CAPTURE"
+    },
+    {
+      "name": "CHECKMATE"
+    },
+    {
+      "name": "DRAW"
+    },
+    {
+      "name": "EN PASSANT"
+    },
+    {
+      "name": "EXCHANGE"
+    },
+    {
+      "name": "FEN"
+    },
+    {
+      "name": "GAMBIT"
+    },
+    {
+      "name": "KING"
+    },
+    {
+      "name": "KNIGHT"
+    },
+    {
+      "name": "LANCE"
+    },
+    {
+      "name": "PAWN"
+    },
+    {
+      "name": "QUEEN"
+    },
+    {
+      "name": "ROOK"
+    },
+    {
+      "name": "SQUARE"
+    },
+    {
+      "name": "TACTICS"
+    },
+    {
+      "name": "TEMPO"
+    },
+    {
+      "name": "THREAT"
+    },
+    {
+      "name": "UMBRAGE"
+    },
+    {
+      "name": "VARIANT"
+    },
+    {
+      "name": "ZONE"
+    },
+    {
+      "name": "BLITZ"
+    },
+    {
+      "name": "CLOSED GAME"
+    },
+    {
+      "name": "CONNECT FOUR"
+    },
+    {
+      "name": "COUNTERATTACK"
+    },
+    {
+      "name": "ILLEGAL MOVE"
+    },
+    {
+      "name": "KINGSIDE CASTLE"
+    },
+    {
+      "name": "OPEN GAME"
+    },
+    {
+      "name": "PAWN PUSH"
+    },
+    {
+      "name": "QUEEN'S GAMBIT"
+    },
+    {
+      "name": "ROOK SACRIFICE"
+    },
+    {
+      "name": "STALEMATE"
+    },
+    {
+      "name": "TRAP"
+    },
+    {
+      "name": "UNDERDOG"
+    },
+    {
+      "name": "VULNERABLE"
+    },
+    {
+      "name": "X-RAY ATTACK"
+    },
+    {
+      "name": "YIELD"
+    },
+    {
+      "name": "SCRABBLE"
+    },
+    {
+      "name": "WORDS"
+    },
+    {
+      "name": "TILES"
+    },
+    {
+      "name": "SCORE"
+    },
+    {
+      "name": "BONUS"
+    },
+    {
+      "name": "RACK"
+    },
+    {
+      "name": "LETTER"
+    },
+    {
+      "name": "GAME"
+    },
+    {
+      "name": "BOARD"
+    },
+    {
+      "name": "PLAY"
+    },
+    {
+      "name": "POINTS"
+    },
+    {
+      "name": "CHALLENGE"
+    },
+    {
+      "name": "WORDPLAY"
+    },
+    {
+      "name": "DICTIONARY"
+    },
+    {
+      "name": "VOWEL"
+    },
+    {
+      "name": "CONSONANT"
+    },
+    {
+      "name": "TRIPLE"
+    },
+    {
+      "name": "DOUBLE"
+    },
+    {
+      "name": "LETTERBOX"
+    },
+    {
+      "name": "CROSSWORD"
+    },
+    {
+      "name": "ANAGRAM"
+    },
+    {
+      "name": "JUMBLE"
+    },
+    {
+      "name": "LEXICON"
+    },
+    {
+      "name": "BOGGLE"
+    },
+    {
+      "name": "BANANAGRAMS"
+    },
+    {
+      "name": "PALINDROME"
+    },
+    {
+      "name": "QWIRKLE"
+    },
+    {
+      "name": "UPWORDS"
+    },
+    {
+      "name": "SCATTERGORIES"
+    },
+    {
+      "name": "CLUE"
+    },
+    {
+      "name": "TRIVIA"
+    },
+    {
+      "name": "PICTIONARY"
+    },
+    {
+      "name": "CODENAMES"
+    },
+    {
+      "name": "TABOO"
+    },
+    {
+      "name": "BALDERDASH"
+    },
+    {
+      "name": "APPLES TO APPLES"
+    },
+    {
+      "name": "DIXIT"
+    },
+    {
+      "name": "CATAN"
+    },
+    {
+      "name": "CARCASSONNE"
+    },
+    {
+      "name": "TICKET TO RIDE"
+    },
+    {
+      "name": "RISK"
+    },
+    {
+      "name": "MONOPOLY"
+    },
+    {
+      "name": "CHESS"
+    },
+    {
+      "name": "CHECKERS"
+    },
+    {
+      "name": "BACKGAMMON"
+    },
+    {
+      "name": "SCRABBLE SLAM"
+    },
+    {
+      "name": "YAHTZEE"
+    },
+    {
+      "name": "BATTLESHIP"
+    },
+    {
+      "name": "JENGA"
+    },
+    {
+      "name": "TWISTER"
+    },
+    {
+      "name": "SEQUENCE"
+    },
+    {
+      "name": "RUMMIKUB"
+    },
+    {
+      "name": "OTHELLO"
+    },
+    {
+      "name": "STRATEGO"
+    },
+    {
+      "name": "SORRY"
+    },
+    {
+      "name": "TROUBLE"
+    },
+    {
+      "name": "UNO"
+    },
+    {
+      "name": "SKIP-BO"
+    },
+    {
+      "name": "PHASE 10"
+    },
+    {
+      "name": "POKER"
+    },
+    {
+      "name": "BRIDGE"
+    },
+    {
+      "name": "MAHJONG"
+    },
+    {
+      "name": "SUDOKU"
+    },
+    {
+      "name": "RUBIK'S CUBE"
+    },
+    {
+      "name": "MASTERMIND"
+    },
+    {
+      "name": "PERFECTION"
+    },
+    {
+      "name": "OPERATION"
+    },
+    {
+      "name": "GUESS WHO"
+    },
+    {
+      "name": "SCRABBLE JUNIOR"
+    },
+    {
+      "name": "PARCHEESI"
+    },
+    {
+      "name": "LUDO"
+    },
+    {
+      "name": "SNAKES AND LADDERS"
+    },
+    {
+      "name": "CHINESE CHECKERS"
+    },
+    {
+      "name": "MANCALA"
+    },
+    {
+      "name": "HIVE"
+    },
+    {
+      "name": "BLOKUS"
+    },
+    {
+      "name": "QUORIDOR"
+    },
+    {
+      "name": "SANTORINI"
+    },
+    {
+      "name": "AZUL"
+    },
+    {
+      "name": "PATCHWORK"
+    },
+    {
+      "name": "SPLENDOR"
+    },
+    {
+      "name": "DOMINION"
+    },
+    {
+      "name": "7 WONDERS"
+    },
+    {
+      "name": "TERRAFORMING MARS"
+    },
+    {
+      "name": "PANDEMIC"
+    },
+    {
+      "name": "TICKET TO RIDE EUROPE"
+    },
+    {
+      "name": "SMALL WORLD"
+    },
+    {
+      "name": "KING OF TOKYO"
+    },
+    {
+      "name": "LOVE LETTER"
+    },
+    {
+      "name": "CARCASSONNE: HUNTERS AND GATHERERS"
+    },
+    {
+      "name": "THE RESISTANCE"
+    },
+    {
+      "name": "FORBIDDEN ISLAND"
+    },
+    {
+      "name": "COUP"
+    },
+    {
+      "name": "SUSHI GO!"
+    },
+    {
+      "name": "EXPLODING KITTENS"
+    },
+    {
+      "name": "MACHI KORO"
+    },
+    {
+      "name": "SHERIFF OF NOTTINGHAM"
+    },
+    {
+      "name": "DEAD OF WINTER"
+    },
+    {
+      "name": "BETRAYAL AT HOUSE ON THE HILL"
+    },
+    {
+      "name": "PANDEMIC LEGACY"
+    },
+    {
+      "name": "GLOOMHAVEN"
+    },
+    {
+      "name": "SCYTHE"
+    },
+    {
+      "name": "TERRA MYSTICA"
+    },
+    {
+      "name": "TWILIGHT STRUGGLE"
+    },
+    {
+      "name": "THROUGH THE AGES"
+    },
+    {
+      "name": "POWER GRID"
+    },
+    {
+      "name": "PUERTO RICO"
+    },
+    {
+      "name": "AGRICOLA"
+    },
+    {
+      "name": "ECLIPSE"
+    },
+    {
+      "name": "COSMIC ENCOUNTER"
+    },
+    {
+      "name": "DOMINION: INTRIGUE"
+    },
+    {
+      "name": "DOMINION: SEASIDE"
+    },
+    {
+      "name": "DOMINION: PROSPERITY"
+    },
+    {
+      "name": "DOMINION: HINTERLANDS"
+    },
+    {
+      "name": "DOMINION: DARK AGES"
+    },
+    {
+      "name": "DOMINION: GUILDS"
+    },
+    {
+      "name": "DOMINION: ADVENTURES"
+    },
+    {
+      "name": "DOMINION: EMPIRES"
+    },
+    {
+      "name": "DOMINION: NOCTURNE"
+    }
+  ]
+}

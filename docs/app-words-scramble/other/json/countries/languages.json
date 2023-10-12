@@ -1,0 +1,286 @@
+{
+  "words": [
+    {
+      "name": "English"
+    },
+    {
+      "name": "Spanish"
+    },
+    {
+      "name": "Mandarin Chinese"
+    },
+    {
+      "name": "Hindi"
+    },
+    {
+      "name": "Arabic"
+    },
+    {
+      "name": "Portuguese"
+    },
+    {
+      "name": "Bengali"
+    },
+    {
+      "name": "Russian"
+    },
+    {
+      "name": "Japanese"
+    },
+    {
+      "name": "German"
+    },
+    {
+      "name": "Punjabi"
+    },
+    {
+      "name": "Javanese"
+    },
+    {
+      "name": "Wu Chinese"
+    },
+    {
+      "name": "Telugu"
+    },
+    {
+      "name": "Vietnamese"
+    },
+    {
+      "name": "Marathi"
+    },
+    {
+      "name": "Tamil"
+    },
+    {
+      "name": "Korean"
+    },
+    {
+      "name": "Italian"
+    },
+    {
+      "name": "Urdu"
+    },
+    {
+      "name": "French"
+    },
+    {
+      "name": "Yue Chinese"
+    },
+    {
+      "name": "Hausa"
+    },
+    {
+      "name": "Persian"
+    },
+    {
+      "name": "Gujarati"
+    },
+    {
+      "name": "Igbo"
+    },
+    {
+      "name": "Turkish"
+    },
+    {
+      "name": "Min Nan Chinese"
+    },
+    {
+      "name": "Yoruba"
+    },
+    {
+      "name": "Ukrainian"
+    },
+    {
+      "name": "Thai"
+    },
+    {
+      "name": "Farsi"
+    },
+    {
+      "name": "Polish"
+    },
+    {
+      "name": "Dutch"
+    },
+    {
+      "name": "Cantonese"
+    },
+    {
+      "name": "Hungarian"
+    },
+    {
+      "name": "Romanian"
+    },
+    {
+      "name": "Serbo-Croatian"
+    },
+    {
+      "name": "Czech"
+    },
+    {
+      "name": "Swedish"
+    },
+    {
+      "name": "Burmese"
+    },
+    {
+      "name": "Lao"
+    },
+    {
+      "name": "Afrikaans"
+    },
+    {
+      "name": "Swahili"
+    },
+    {
+      "name": "Twi"
+    },
+    {
+      "name": "Norwegian"
+    },
+    {
+      "name": "Danish"
+    },
+    {
+      "name": "Finnish"
+    },
+    {
+      "name": "Haitian Creole"
+    },
+    {
+      "name": "Zulu"
+    },
+    {
+      "name": "Hebrew"
+    },
+    {
+      "name": "Yiddish"
+    },
+    {
+      "name": "Xhosa"
+    },
+    {
+      "name": "Kazakh"
+    },
+    {
+      "name": "Malay"
+    },
+    {
+      "name": "Uzbek"
+    },
+    {
+      "name": "Amharic"
+    },
+    {
+      "name": "Nepali"
+    },
+    {
+      "name": "Azerbaijani"
+    },
+    {
+      "name": "Kannada"
+    },
+    {
+      "name": "Filipino"
+    },
+    {
+      "name": "Vietnamese"
+    },
+    {
+      "name": "Sinhala"
+    },
+    {
+      "name": "Somali"
+    },
+    {
+      "name": "Pashto"
+    },
+    {
+      "name": "Georgian"
+    },
+    {
+      "name": "Armenian"
+    },
+    {
+      "name": "Khmer"
+    },
+    {
+      "name": "Luo"
+    },
+    {
+      "name": "Tswana"
+    },
+    {
+      "name": "Fula"
+    },
+    {
+      "name": "Shona"
+    },
+    {
+      "name": "Oromo"
+    },
+    {
+      "name": "Sundanese"
+    },
+    {
+      "name": "Tibetan"
+    },
+    {
+      "name": "Kurdish"
+    },
+    {
+      "name": "Lao"
+    },
+    {
+      "name": "Tigrinya"
+    },
+    {
+      "name": "Turkmen"
+    },
+    {
+      "name": "Setswana"
+    },
+    {
+      "name": "Quechua"
+    },
+    {
+      "name": "Uighur"
+    },
+    {
+      "name": "Xiang"
+    },
+    {
+      "name": "Maithili"
+    },
+    {
+      "name": "Twi"
+    },
+    {
+      "name": "Bhojpuri"
+    },
+    {
+      "name": "Saraiki"
+    },
+    {
+      "name": "Hmong"
+    },
+    {
+      "name": "Ijo languages"
+    },
+    {
+      "name": "Santali"
+    },
+    {
+      "name": "Kanuri"
+    },
+    {
+      "name": "Ngambay"
+    },
+    {
+      "name": "Chichewa"
+    },
+    {
+      "name": "Gusii"
+    }
+  ]
+}

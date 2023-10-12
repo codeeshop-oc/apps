@@ -1,0 +1,349 @@
+{
+  "words": [
+    {
+      "name": "AGITATED"
+    },
+    {
+      "name": "ANNOYED"
+    },
+    {
+      "name": "ANGER"
+    },
+    {
+      "name": "BITTERNESS"
+    },
+    {
+      "name": "CRANKINESS"
+    },
+    {
+      "name": "ENMITY"
+    },
+    {
+      "name": "EXASPERATION"
+    },
+    {
+      "name": "IRE"
+    },
+    {
+      "name": "IRRITATION"
+    },
+    {
+      "name": "MADNESS"
+    },
+    {
+      "name": "MALICE"
+    },
+    {
+      "name": "NASTY"
+    },
+    {
+      "name": "OUTRAGE"
+    },
+    {
+      "name": "PETTY"
+    },
+    {
+      "name": "RANCOR"
+    },
+    {
+      "name": "RESENTMENT"
+    },
+    {
+      "name": "SPITE"
+    },
+    {
+      "name": "TEMPER"
+    },
+    {
+      "name": "VENGEANCE"
+    },
+    {
+      "name": "WRATH"
+    },
+    {
+      "name": "AGGRAVATE"
+    },
+    {
+      "name": "APOCLINE"
+    },
+    {
+      "name": "CALMLY"
+    },
+    {
+      "name": "CHATTER"
+    },
+    {
+      "name": "CONFRONT"
+    },
+    {
+      "name": "CRUELTY"
+    },
+    {
+      "name": "DERIDE"
+    },
+    {
+      "name": "DISDAIN"
+    },
+    {
+      "name": "DISGUST"
+    },
+    {
+      "name": "ELATION"
+    },
+    {
+      "name": "ENRAGE"
+    },
+    {
+      "name": "FURY"
+    },
+    {
+      "name": "GLOOMY"
+    },
+    {
+      "name": "HATE"
+    },
+    {
+      "name": "HOARSE"
+    },
+    {
+      "name": "HOSTILE"
+    },
+    {
+      "name": "ILL HUMOR"
+    },
+    {
+      "name": "INDIGNATION"
+    },
+    {
+      "name": "INTENSE"
+    },
+    {
+      "name": "IRRITATED"
+    },
+    {
+      "name": "MALEVOLENT"
+    },
+    {
+      "name": "MISERABLE"
+    },
+    {
+      "name": "RAGE"
+    },
+    {
+      "name": "RASH"
+    },
+    {
+      "name": "RESENTFUL"
+    },
+    {
+      "name": "REVENGE"
+    },
+    {
+      "name": "SAVAGE"
+    },
+    {
+      "name": "SULLEN"
+    },
+    {
+      "name": "THREATEN"
+    },
+    {
+      "name": "TYRANT"
+    },
+    {
+      "name": "UNAPPRECIATIVE"
+    },
+    {
+      "name": "UNFRIENDLY"
+    },
+    {
+      "name": "UNHAPPY"
+    },
+    {
+      "name": "VILIFY"
+    },
+    {
+      "name": "VIOLENT"
+    },
+    {
+      "name": "WAVERING"
+    },
+    {
+      "name": "ANNOYANC"
+    },
+    {
+      "name": "ANGERINESS"
+    },
+    {
+      "name": "CHOL"
+    },
+    {
+      "name": "NAST"
+    },
+    {
+      "name": "PET"
+    },
+    {
+      "name": "RANCO"
+    },
+    {
+      "name": "VENGEAN"
+    },
+    {
+      "name": "ANGUISH"
+    },
+    {
+      "name": "HOSTILITY"
+    },
+    {
+      "name": "HATRED"
+    },
+    {
+      "name": "ANIMOSITY"
+    },
+    {
+      "name": "FRUSTRATION"
+    },
+    {
+      "name": "ANNOYANCE"
+    },
+    {
+      "name": "DISPLEASURE"
+    },
+    {
+      "name": "DISCONTENT"
+    },
+    {
+      "name": "DISAPPROVAL"
+    },
+    {
+      "name": "CONTEMPT"
+    },
+    {
+      "name": "SCORN"
+    },
+    {
+      "name": "JEALOUSY"
+    },
+    {
+      "name": "ENVY"
+    },
+    {
+      "name": "GRUDGE"
+    },
+    {
+      "name": "BETRAYAL"
+    },
+    {
+      "name": "DEFIANCE"
+    },
+    {
+      "name": "DEFENSIVENESS"
+    },
+    {
+      "name": "AGGRAVATION"
+    },
+    {
+      "name": "IMPATIENCE"
+    },
+    {
+      "name": "IMPOTENT"
+    },
+    {
+      "name": "ANXIOUS"
+    },
+    {
+      "name": "RESTLESS"
+    },
+    {
+      "name": "TENSE"
+    },
+    {
+      "name": "NERVOUS"
+    },
+    {
+      "name": "WORRIED"
+    },
+    {
+      "name": "STRESSED"
+    },
+    {
+      "name": "OVERWHELMED"
+    },
+    {
+      "name": "DESPERATE"
+    },
+    {
+      "name": "HELPLESS"
+    },
+    {
+      "name": "HOPELESS"
+    },
+    {
+      "name": "DEPRESSED"
+    },
+    {
+      "name": "SADNESS"
+    },
+    {
+      "name": "GRIEF"
+    },
+    {
+      "name": "SORROW"
+    },
+    {
+      "name": "DESPAIR"
+    },
+    {
+      "name": "MELANCHOLY"
+    },
+    {
+      "name": "REGRET"
+    },
+    {
+      "name": "REMORSE"
+    },
+    {
+      "name": "GUILT"
+    },
+    {
+      "name": "SHAME"
+    },
+    {
+      "name": "EMBARRASSMENT"
+    },
+    {
+      "name": "HUMILIATION"
+    },
+    {
+      "name": "DISAPPOINTMENT"
+    },
+    {
+      "name": "RESIGNATION"
+    },
+    {
+      "name": "LONELINESS"
+    },
+    {
+      "name": "ISOLATION"
+    },
+    {
+      "name": "ABANDONMENT"
+    },
+    {
+      "name": "HEARTBREAK"
+    },
+    {
+      "name": "REJECTION"
+    },
+    {
+      "name": "INSECURITY"
+    },
+    {
+      "name": "INFERIORITY"
+    },
+    {
+      "name": "INFERIORITY."
+    }
+  ]
+}
