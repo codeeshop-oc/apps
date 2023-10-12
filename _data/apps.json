@@ -2,6 +2,7 @@
 	{
 		"name": "Words Scramble",
 		"id": "app-words-scramble",
+		"play_store_id": "com.words_scramble.app",
 		"folder": "words-scramble",
 		"link": "",
 		"youtube_url": ""
