@@ -10,9 +10,9 @@
 				</defs>
 			</svg>
 			{% if page.url != '/' %}
-				<a href="{{ "/" | absolute_path }}" target="_self"><img class="headerIcon" src="{{ site.app_icon | relative_url }}"></a>
+				<a href="{{ "/" | absolute_path }}" target="_self"><img class="headerIcon" src="{{ "assets/images/" | relative_url }}{{ app_main.folder }}/appicon.png"></a>
 			{% else %}
-				<img class="headerIcon" src="{{ site.app_icon | relative_url }}">
+				<img class="headerIcon" src="{{ "assets/images/" | relative_url }}{{ app_main.folder }}/appicon.png">
 			{% endif %}
 			<div class="divider"></div>
 		</div>
