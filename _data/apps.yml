@@ -1,5 +1,6 @@
 /authenticator-secure/home:
   name: Authenticator Secure
+  description: Unlock with Confidence, Authenticator Secure at Your Defense!
   git_repo_name: app-authenticator-secure
   play_store_id: com.authenticator_secure.app
   folder: authenticator-secure
@@ -8,6 +9,7 @@
   youtube_id: PKCKd-rnb9A
 /words-scramble/home:
   name: Words Scramble
+  description: 
   id: app-words-scramble
   play_store_id: com.words_scramble.app
   folder: words-scramble
@@ -16,6 +18,7 @@
   youtube_url: 6u7uqdt3qvg
 /lumpsumcalculator/home:
   name: Lumpsum Calculator
+  description: 
   id: com.lumpsumcalculator.app
   folder: lumpsumcalculator
   link:

@@ -2,7 +2,7 @@
 page_title                                : __APP_NAME__                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # site settings
-title: Apps Showcase
+title: Code E-Shop Showcase
 subtitle: by Code-E-Shop
 description: 
 author:
@@ -28,7 +28,7 @@ presskit_download_link                    : https://play.google.com/store/apps/d
 app_icon                                  : # appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : __APP_TAGLINE__
+app_description                           : Code E-Shop | Addon for Your Need
 
 enable_smart_app_banner                   : __APP_SMARTBANNER__                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,7 +36,7 @@ enable_smart_app_banner                   : __APP_SMARTBANNER__                 
 
 # Information About Yourself
 your_name                                 : Code-E-Shop                                
-your_link                                 : https://codeeshop.com                     
+website                                   : https://codeeshop.com                     
 your_city                                 : Delhi                                
 email_address                             : sales@codeeshop.com
 facebook_username                         :                                           
