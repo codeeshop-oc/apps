@@ -1,7 +1,15 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 
-{% for file in site.static_files %}
-    {% if file.path contains 'assets/screenshot/' %}
+<script>
+    $(function() {
+        $(".iphoneScreen").attr('src', '{{ site.github.baseurl }}assets/screenshot/{{ app_main.folder }}/appscreen.png');
+        $(".iphoneScreen").removeClass("hidden");
+        console.log("{{ file }}");
+    });
+</script>
+
+<!-- {% for file in site.static_files %}
+    {% if file.path contains 'assets/screenshot/{{ app_main.folder }}/screen.png' %}
         <script>
             $(function() {
                 $(".iphoneScreen").attr('src', '{{ site.github.baseurl }}{{ file.path }}');
@@ -44,4 +52,4 @@
         </script>
         {% endif %}
     {% endif %}
-{% endfor %}
+{% endfor %} -->

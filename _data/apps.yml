@@ -1,17 +1,23 @@
+/authenticator-secure/home:
+  name: Authenticator Secure
+  git_repo_name: app-authenticator-secure
+  play_store_id: com.authenticator_secure.app
+  folder: authenticator-secure
+  link:
+  slug_id: /authenticator-secure/home
+  youtube_id: PKCKd-rnb9A
 /words-scramble/home:
-    name: Words Scramble
-    id: app-words-scramble
-    play_store_id: com.words_scramble.app
-    folder: words-scramble
-    link: 
-    slug_id: /words-scramble/home
-    youtube_url: 6u7uqdt3qvg
-
+  name: Words Scramble
+  id: app-words-scramble
+  play_store_id: com.words_scramble.app
+  folder: words-scramble
+  link:
+  slug_id: /words-scramble/home
+  youtube_url: 6u7uqdt3qvg
 /lumpsumcalculator/home:
-    name: Lumpsum Calculator
-    id: com.lumpsumcalculator.app
-    folder: lumpsumcalculator
-    link: 
-    home: /lumpsumcalculator/home
-    youtube_url: armPNK7DPcA
-
+  name: Lumpsum Calculator
+  id: com.lumpsumcalculator.app
+  folder: lumpsumcalculator
+  link:
+  home: /lumpsumcalculator/home
+  youtube_url: armPNK7DPcA
