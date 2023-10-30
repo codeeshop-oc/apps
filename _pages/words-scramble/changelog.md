@@ -6,6 +6,12 @@ image:
 nav-menu: true
 ---
 
+## [0.0.97] - 2023-10-30
+
+### Fixed
+
+- Google Play Games Fixes
+
 ## [0.0.96] - 2023-10-30
 
 ### Fixed
