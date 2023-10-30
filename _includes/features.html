@@ -3,27 +3,26 @@
     <!-- 
     <iframe width="799" height="449" src="https://www.youtube.com/embed/" title="Lumpsum Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
      -->
-     {{app_features}}
+     <!-- {{app_features}} -->
     {% for feature in app_features %}
-
-    {% if feature.title %}
-    <div class="feature">
-        <div>
-            <span class="fa-stack fa-1x">
-                <i class="iconBack fas fa-circle fa-stack-2x"></i>
-                <i class="iconTop fas fa-{{ feature.fontawesome_icon_name }} fa-stack-1x"></i>
-            </span>
-        </div>
-        <div class="featureText">
-            <h3>
-                {{ feature.title }}
-            </h3>
-            <p>
-                {{ feature.description }}
-            </p>
-        </div>
-    </div>
-    {% endif %}
+        {% if feature.title %}
+            <div class="feature">
+                <div>
+                    <span class="fa-stack fa-1x">
+                        <i class="iconBack fas fa-circle fa-stack-2x"></i>
+                        <i class="iconTop fas fa-{{ feature.fontawesome_icon_name }} fa-stack-1x"></i>
+                    </span>
+                </div>
+                <div class="featureText">
+                    <h3>
+                        {{ feature.title }}
+                    </h3>
+                    <p>
+                        {{ feature.description }}
+                    </p>
+                </div>
+            </div>
+        {% endif %}
 
     {% endfor %}
 
