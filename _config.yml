@@ -11,7 +11,7 @@ city: Delhi
 state: Delhi
 zip_code: 110092
 country: India
-phone: XXXXXXXXXX
+phone: +91-81782 61549
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
