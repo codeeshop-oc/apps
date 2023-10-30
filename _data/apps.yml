@@ -18,7 +18,7 @@
   youtube_id: PKCKd-rnb9A
 /lumpsumcalculator/home:
   name: Lumpsum Calculator
-  description: 
+  description:
   id: com.lumpsumcalculator.app
   folder: lumpsumcalculator
   link:
