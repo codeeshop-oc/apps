@@ -9,8 +9,6 @@ nav-menu: true
 **Last updated**  
 October 26 2023
 
-## Privacy Policy
-
 **Introduction**
 
 Code-E-Shop ("we", "us", or "our") respects the privacy of our users. This Privacy Policy explains how we collect, use, and share information about users of our Authenticator Secure ("Apps").

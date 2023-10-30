@@ -1,19 +1,21 @@
+/words-scramble/home:
+  name: Words Scramble
+  description: Unscramble letters, improve your vocabulary.
+  git_repo_name: app-words-scramble
+  play_store_id: com.words_scramble.app
+  folder: words-scramble
+  link:
+  slug_id: /words-scramble/home
+  youtube_id: 6u7uqdt3qvg
 /authenticator-secure/home:
   name: Authenticator Secure
+  description: Unlock with Confidence, Authenticator Secure at Your Defense!
   git_repo_name: app-authenticator-secure
   play_store_id: com.authenticator_secure.app
   folder: authenticator-secure
   link:
   slug_id: /authenticator-secure/home
   youtube_id: PKCKd-rnb9A
-/words-scramble/home:
-  name: Words Scramble
-  id: app-words-scramble
-  play_store_id: com.words_scramble.app
-  folder: words-scramble
-  link:
-  slug_id: /words-scramble/home
-  youtube_url: 6u7uqdt3qvg
 /lumpsumcalculator/home:
   name: Lumpsum Calculator
   id: com.lumpsumcalculator.app

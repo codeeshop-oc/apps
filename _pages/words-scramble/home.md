@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Index
-description: Lorem ipsum dolor est
+title: Home Page
+description: Home Page
 image: 
 nav-menu: true
 ---
-{{ page.id }}

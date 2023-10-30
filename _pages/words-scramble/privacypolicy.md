@@ -1,62 +1,71 @@
 ---
 layout: post
 title: Privacy Policy
-description: Lorem ipsum dolor est
+description: Privacy Policy
 image: 
 nav-menu: true
 ---
 
 **Last updated**  
-August 1 2019
+October 30 2023
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+**Introduction**
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+Code-E-Shop ("we", "us", or "our") respects the privacy of our users. This Privacy Policy explains how we collect, use, and share information about users of our Words Scramble ("Apps").
 
-<br>
+**Information We Collect**
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+We collect the following information from users of our Apps:
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+* Device information: This includes the type of device you are using, the operating system version, and the unique device identifier.
+* Gameplay information: This includes information about your gameplay, such as your progress, scores, and achievements.
+* Account information: If you create an account with us, we will collect your email address, username, and password.
+* Payment information: If you make a purchase in one of our Apps, we will collect your payment information, such as your credit card number and billing address.
+* Third-party login information: If you choose to log in to one of our Apps using a third-party service, such as Facebook or Google, we will collect the information that you have authorized the third-party service to share with us.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+**How We Use Your Information**
 
-<br>
+We use the information we collect from users of our Apps for the following purposes:
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+* To provide and operate the Apps.
+* To improve and personalize the Apps.
+* To communicate with users about the Apps and other products and services we offer.
+* To deliver targeted advertising to users.
+* To prevent fraud and abuse.
+* To comply with legal and regulatory requirements.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+**How We Share Your Information**
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+We may share your information with the following third parties:
 
-<br>
+* Service providers: We may share your information with third-party service providers who help us to operate the Apps and provide other services to us. For example, we may share your information with a third-party service provider that hosts our servers or provides us with analytics services.
+* Advertising partners: We may share your information with third-party advertising partners who help us to deliver targeted advertising to you.
+* Other third parties: We may also share your information with other third parties with your consent or as permitted by law.
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+**Your Choices**
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+You have the following choices regarding your information:
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+* You can access and review your information by logging in to your account (if you have one).
+* You can request to have your information deleted by contacting us at sales@codeeshop.com
+* You can opt out of receiving targeted advertising by contacting us at sales@codeeshop.com
 
-<br>
+**Data Retention**
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+We will retain your information for as long as necessary to provide and operate the Apps and to comply with our legal obligations.
 
-<br>
+**Security**
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+We take reasonable steps to protect your information from unauthorized access, use, disclosure, alteration, or destruction. However, no method of transmission over the internet or electronic storage is 100% secure. Therefore, we cannot guarantee the absolute security of your information.
+
+**Changes to This Privacy Policy**
+
+We may update this Privacy Policy from time to time. If we make any changes to this Privacy Policy, we will post the updated Privacy Policy on our website.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us at sales@codeeshop.com
+
+**Disclaimer**
+
+We take reasonable steps to protect your information from unauthorized access, use, or disclosure. However, we cannot guarantee the absolute security of your information. You agree that we are not liable for any damages or losses that may result from the collection, use, or sharing of your information.
