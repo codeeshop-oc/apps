@@ -9,8 +9,6 @@ nav-menu: true
 **Last updated**  
 October 30 2023
 
-**Introduction**
-
 Code-E-Shop ("we", "us", or "our") respects the privacy of our users. This Privacy Policy explains how we collect, use, and share information about users of our Words Scramble ("Apps").
 
 **Information We Collect**
