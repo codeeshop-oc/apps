@@ -1,9 +1,11 @@
+<div class="youtube-features">
+    <div class="margin-20-b">
+        <strong>Youtube Demo</strong>
+    </div>    
+    <iframe width="100%" height="449" src="https://www.youtube.com/embed/{{ app_main['youtube_id'] }}" title="{{ app_main['name'] }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 <div class="features">
-    
-    <!-- 
-    <iframe width="799" height="449" src="https://www.youtube.com/embed/" title="Lumpsum Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-     -->
-     <!-- {{app_features}} -->
+    <!-- {{app_features}} -->
     {% for feature in app_features %}
         {% if feature.title %}
             <div class="feature">

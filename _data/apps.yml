@@ -25,11 +25,3 @@
   link:
   slug_id: /authenticator-secure/home
   youtube_id: PKCKd-rnb9A
-/lumpsumcalculator/home:
-  name: Lumpsum Calculator
-  description:
-  id: com.lumpsumcalculator.app
-  folder: lumpsumcalculator
-  link:
-  home: /lumpsumcalculator/home
-  youtube_url: armPNK7DPcA

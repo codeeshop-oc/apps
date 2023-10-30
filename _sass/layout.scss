@@ -471,6 +471,14 @@ nav > ul li a:active {
 
 // Feature List
 
+.youtube-features {
+	grid-area: c;
+	display: flex;
+	align-content: flex-start;
+	flex-wrap: wrap;
+	margin-top: 90px;
+}
+
 .features {
 	grid-area: c;
 	display: flex;
@@ -479,7 +487,11 @@ nav > ul li a:active {
 	justify-content: flex-start;
 	flex-grow: 1;
 	flex-wrap: wrap;
-	margin-top: 93px;
+	margin-top: 610px;
+}
+.margin-20-b {
+	text-decoration: underline;
+	margin-bottom: 20px;
 }
 
 .feature {
@@ -538,7 +550,11 @@ nav > ul li a:active {
 		flex-grow: 1;
 		flex-direction: row;
 		flex-wrap: wrap;
-		margin-top: 11px;
+		margin-top: 530px;
+	}
+
+	.youtube-features {
+		margin-top: 0;
 	}
 
 	.feature {
