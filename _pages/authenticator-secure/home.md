@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Index
+title: Home Page
 description: Home Page
 image: 
 nav-menu: true

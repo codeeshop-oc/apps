@@ -2,7 +2,7 @@
 layout: forty-jekyll-theme/page
 title: Words Scramble
 image: assets/images/pic01.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->

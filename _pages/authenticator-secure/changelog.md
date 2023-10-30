@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Index
+title: Changelog
 description: Changelog
 image: 
 nav-menu: true
 ---
-
-# Changelog
 
 All notable changes to this project will be documented in this file.
 
