@@ -1,12 +1,12 @@
-/chatgpt-prompts/home:
-  name: Prompt Galaxy
-  description: Unleash the Power of Conversation with AI!
-  git_repo_name: app-chatgpt-prompts
-  play_store_id: com.chatgpt_prompts.app
-  folder: chatgpt-prompts
+/build-tower/home:
+  name: Build Tower
+  description: Rising to New Heights, One Block at a Time
+  git_repo_name: app-build-tower
+  play_store_id: com.build_tower.app
+  folder: build-tower
   link:
-  slug_id: /chatgpt-prompts/home
-  youtube_id: t1l-YishBCI
+  slug_id: /build-tower/home
+  youtube_id: det3de5jFFI
 /words-scramble/home:
   name: Words Scramble
   description: Unscramble letters, improve your vocabulary.
@@ -16,15 +16,6 @@
   link:
   slug_id: /words-scramble/home
   youtube_id: 6u7uqdt3qvg
-/lumpsum-calculator/home:
-  name: Lumpsum Calculator
-  description:
-  git_repo_name: app-lumpsum-calculator
-  play_store_id: com.lumpsumcalculator.app
-  folder: lumpsum-calculator
-  link:
-  slug_id: /lumpsum-calculator/home
-  youtube_id: armPNK7DPcA
 /authenticator-secure/home:
   name: Authenticator Secure
   description: Unlock with Confidence, Authenticator Secure at Your Defense!
@@ -34,3 +25,21 @@
   link:
   slug_id: /authenticator-secure/home
   youtube_id: PKCKd-rnb9A
+/chatgpt-prompts/home:
+  name: Prompt Galaxy
+  description: Unleash the Power of Conversation with AI!
+  git_repo_name: app-chatgpt-prompts
+  play_store_id: com.chatgpt_prompts.app
+  folder: chatgpt-prompts
+  link:
+  slug_id: /chatgpt-prompts/home
+  youtube_id: t1l-YishBCI
+/lumpsum-calculator/home:
+  name: Lumpsum Calculator
+  description:
+  git_repo_name: app-lumpsum-calculator
+  play_store_id: com.lumpsumcalculator.app
+  folder: lumpsum-calculator
+  link:
+  slug_id: /lumpsum-calculator/home
+  youtube_id: armPNK7DPcA
