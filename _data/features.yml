@@ -4,7 +4,7 @@
     fontawesome_icon_name: trophy
   - title: Stylish Design
     description: Design Standards as per current market
-    fontawesome_icon_name: lightning
+    fontawesome_icon_name: lightbulb-o
   - title: Improvement
     description: Continue Improvement and development
     fontawesome_icon_name: play-circle
@@ -14,17 +14,17 @@
     fontawesome_icon_name: trophy
   - title: Stylish Design
     description: Design Standards as per current market
-    fontawesome_icon_name: lightning
+    fontawesome_icon_name: lightbulb-o
   - title: Improvement
     description: Continue Improvement and development
     fontawesome_icon_name: play-circle
-/lumpsum-calculator/home:
+/chatgpt-prompts/home:
   - title: Play Store
     description: Available in play store
     fontawesome_icon_name: trophy
   - title: Stylish Design
     description: Design Standards as per current market
-    fontawesome_icon_name: lightning
+    fontawesome_icon_name: lightbulb-o
   - title: Improvement
     description: Continue Improvement and development
     fontawesome_icon_name: play-circle

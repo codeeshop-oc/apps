@@ -1,3 +1,12 @@
+/chatgpt-prompts/home:
+  name: Prompt Galaxy
+  description: Unleash the Power of Conversation with AI!
+  git_repo_name: app-chatgpt-prompts
+  play_store_id: com.chatgpt_prompts.app
+  folder: chatgpt-prompts
+  link:
+  slug_id: /chatgpt-prompts/home
+  youtube_id: t1l-YishBCI
 /words-scramble/home:
   name: Words Scramble
   description: Unscramble letters, improve your vocabulary.
