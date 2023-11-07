@@ -2,18 +2,19 @@
 <section id="contact">
 	<div class="inner">
 		<section>
-			<form action="https://formspree.io/{{ site.email_address }}" method="POST">
+			<form action="https://codeeshop.com/module/ces_github/api" method="POST">
 				<div class="field half first">
 					<label for="name">Name</label>
-					<input type="text" name="name" id="name" />
+					<input type="text" name="name" id="name" required />
 				</div>
 				<div class="field half">
 					<label for="email">Email</label>
-					<input type="text" name="_replyto" id="email" />
+					<input type="email" name="email" id="email" required />
+					<input type="hidden" name="url" value="https://codeeshop-oc.github.io/apps/" />
 				</div>
 				<div class="field">
 					<label for="message">Message</label>
-					<textarea name="message" id="message" rows="6"></textarea>
+					<textarea name="message" id="message" rows="6" required></textarea>
 				</div>
 				<ul class="actions">
 					<li><input type="submit" value="Send Message" class="special" /></li>
